@@ -1,28 +1,27 @@
 ---
 name: mechanical-and-hvac
-status: VERIFIED — อ้างอิงกฎกระทรวง ฉบับที่ 33 (ระบบอัดอากาศบันไดหนีไฟ), กฎกระทรวง ฉบับที่ 39 (ระบบระบายอากาศ), และประกาศกระทรวงพลังงาน BEC 2564 (S-005, S-008, S-017)
+status: VERIFIED — Grounded in Ministerial Regulations No. 33, 39, and Building Energy Code 2564 (S-005, S-008, S-017).
 ---
 
-# งานระบบเครื่องกลและปรับอากาศ (Mechanical & HVAC Systems)
+# Mechanical Engineering & HVAC Systems
 
-## 1. ข้อกำหนดการระบายอากาศขั้นต่ำ [S-008: กฎกระทรวง ฉบับที่ 39]
-  - **การระบายอากาศธรรมชาติ:** ช่องเปิดต้องไม่น้อยกว่าร้อยละ 10 ของพื้นที่ห้อง
-  - **การระบายอากาศกล (Mechanical Ventilation):** ห้องที่ไม่มีช่องเปิดธรรมชาติ ต้องมีอัตราการเปลี่ยนอากาศขั้นต่ำ (Air Changes per Hour - ACH):
-    - ห้องน้ำ/ห้องส้วม: ไม่น้อยกว่า **4 เท่าของปริมาตรห้องต่อชั่วโมง**
-    - ห้องครัว ร้านอาหาร: ไม่น้อยกว่า **10–15 เท่าของปริมาตรห้องต่อชั่วโมง**
-    - ที่จอดรถยนต์ใต้ดิน/ในอาคาร: ไม่น้อยกว่า **6 เท่าของปริมาตรห้องต่อชั่วโมง** (และรักษาระดับ CO ไม่เกิน 50 ppm)
-    - ห้องประชุม / โรงมหรสพ: อากาศบริสุทธิ์ไม่น้อยกว่า **20 ลูกบาศก์เมตรต่อคนต่อชั่วโมง**
-
----
-
-## 2. เกณฑ์ประสิทธิภาพระบบปรับอากาศตามมาตรฐานพลังงาน (BEC) [S-017]
-  - ประสิทธิภาพเครื่องปรับอากาศแบบแยกส่วน (Split Type):
-    - ค่า SEER ไม่น้อยกว่า **15.0–18.0 Btu/Wh** (ตามเกณฑ์ประหยัดไฟเบอร์ 5)
-  - เครื่องทำน้ำเย็น (Water-Cooled / Air-Cooled Chiller):
-    - ระบบ Air-Cooled Chiller: ค่า COP ไม่น้อยกว่า **3.10**
-    - ระบบ Water-Cooled Chiller: ค่า COP ไม่น้อยกว่า **5.50 ถึง 6.10**
+## 1. Ventilation Standards [S-008: Ministerial Regulation No. 39]
+- Natural ventilation: Openable window area $\ge 10\%$ of room floor area.
+- Mechanical ventilation air change rates (Air Changes per Hour - ACH):
+  - Domestic Restrooms: Minimum **4 ACH**.
+  - Commercial Kitchens: Minimum **10 to 15 ACH**.
+  - Enclosed Parking Garages: Minimum **6 ACH** (maintaining CO levels below 50 ppm).
+  - Auditoriums & Theaters: Outdoor air supply $\ge \mathbf{20\ m^3/	ext{person}/	ext{hour}}$.
 
 ---
 
-## 3. ระบบควบคุมควันไฟและอัดอากาศบันไดหนีไฟ [S-005]
-  - บันไดหนีไฟภายในอาคารสูงต้องติดตั้งพัดลมอัดอากาศ (Pressurization Fan) สร้างความดันบวกระหว่าง **25 ถึง 50 ปาสคาล (Pa)** ขณะประตูปิดทุกบาน เพื่อป้องกันควันไฟแทรกซึมเข้าสู่บันไดขณะเกิดเพลิงไหม้
+## 2. Air Conditioning Efficiency Benchmarks [S-017: Building Energy Code]
+- Unitary Split Systems: Seasonal Energy Efficiency Ratio (SEER) $\ge \mathbf{15.0	ext{--}18.0\ Btu/Wh}$.
+- Water Chilling Units:
+  - Air-cooled chillers: Coefficient of Performance (COP) $\ge \mathbf{3.10}$.
+  - Water-cooled chillers: Coefficient of Performance (COP) $\ge \mathbf{5.50	ext{ to }6.10}$.
+
+---
+
+## 3. Stairwell Pressurization Systems [S-005]
+- Enclosed interior fire exit stairs in high-rise buildings must provide mechanical pressurization fans maintaining positive differential pressure between **25 to 50 Pascals (Pa)** with all exit doors shut.

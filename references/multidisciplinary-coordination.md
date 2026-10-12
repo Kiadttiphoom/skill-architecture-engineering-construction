@@ -1,15 +1,15 @@
 ---
 name: multidisciplinary-coordination
-status: VERIFIED — อ้างอิงข้อกำหนดประสานงานสถาปัตยกรรม-วิศวกรรมโครงสร้าง-งานระบบอาคาร ตาม พ.ร.บ. ควบคุมอาคาร และกฎกระทรวง ฉบับที่ 33, 39, 55 (S-003, S-004, S-005, S-008)
+status: VERIFIED — Grounded in the Building Control Act and Ministerial Regulations No. 33, 39, 55 (S-003, S-004, S-005, S-008).
 ---
 
-# การประสานงานสหวิชาชีพ (Multidisciplinary Coordination)
+# Multidisciplinary Coordination & Clash Avoidance
 
-## 1. จุดตัดประสานสำคัญ (Critical Coordination Clashes)
-  - **โครงสร้าง vs งานระบบท่อ:**
-    - ห้ามเจาะทะลุคาน คอนกรีตเสริมเหล็กในระยะ $2d$ จากขอบเสา (โซนโมเมนต์ดัดและแรงเฉือนสูงสุด)
-    - ท่อประปาและท่อน้ำทิ้งที่ต้องเจาะทะลุคานต้องวางปลอกท่อ (Sleeve) ในช่วงกลางความลึกของคานที่กึ่งกลางช่วงพาด ก่อนการเทคอนกรีต
-  - **ระดับพื้นห้องน้ำ vs คานโครงสร้าง:**
-    - ต้องลดระดับพื้นห้องน้ำลง 5–10 ซม. จากพื้นทั่วไป หรือใช้ระบบคานลดระดับ (Drop Beam) เพื่อป้องกันน้ำล้นและรองรับงานเดินท่อสุขาภิบาล
-  - **ความสูงใต้คาน vs งานฝ้าเพดานและท่อแอร์:**
-    - เผื่อระยะติดตั้งท่อลมแอร์และท่อระบายน้ำทิ้งใต้ท้องคานอย่างน้อย 30–40 ซม. เพื่อให้ได้ความสูงพื้นถึงฝ้าเพดานสุทธิไม่น้อยกว่า **2.60 เมตร** ตามกฎหมาย
+## 1. Critical Inter-Disciplinary Coordination Interfaces
+- **Structural vs. Plumbing Sleeve Penetrations:**
+  - Pipe penetrations are strictly prohibited through beams within $2d$ of column faces (maximum shear and moment zones).
+  - Pre-pour pipe sleeves must be positioned within the middle third of the beam depth at mid-span.
+- **Finished Floor Drops for Bathrooms:**
+  - Structural bathroom slabs must be dropped 5 to 10 cm below adjacent finished floors to allow waterproof drainage and prevent flood overflow.
+- **Ceiling Plenums & HVAC Duct Routes:**
+  - Provide at least 30 to 40 cm of clear mechanical plenum space below beam soffits to maintain the statutory minimum finished ceiling height of **2.60 meters**.

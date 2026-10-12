@@ -1,52 +1,51 @@
 ---
 name: fire-and-life-safety
-status: VERIFIED — อ้างอิงกฎกระทรวง ฉบับที่ 33, 39, 47, 55, กฎกระทรวงโรงแรม 2566, และประกาศ มท. คุณสมบัติการทนไฟของวัสดุ 2567 (S-004, S-005, S-008, S-014, S-016)
+status: VERIFIED — Grounded in Ministerial Regulations No. 33, 39, 47, 55, Hotel Regulation 2566, and MOI Fire Rating Notification 2567 (S-004, S-005, S-008, S-014, S-016).
 ---
 
-# ความปลอดภัยจากอัคคีภัยและการหนีไฟ (Fire & Life Safety)
+# Fire Protection, Life Safety & Evacuation Engineering
 
-## 1. การแบ่งห้องกันไฟและอัตราการทนไฟของวัสดุ (Fire Separation & Rating) [S-016]
-ตามประกาศกระทรวงมหาดไทย เรื่อง คุณสมบัติการทนไฟของวัสดุ พ.ศ. 2567 (ทดสอบตาม ASTM E119 หรือ ISO 834):
-  - **เสาและคานโครงสร้างหลักของอาคารสูง/ขนาดใหญ่พิเศษ:** อัตราการทนไฟไม่น้อยกว่า **3 ชั่วโมง**
-  - **พื้นคอนกรีตเสริมเหล็ก:** อัตราการทนไฟไม่น้อยกว่า **2 ชั่วโมง**
-  - **ผนังช่องเปิดรอบบันไดหนีไฟและช่องลิฟต์:** อัตราการทนไฟไม่น้อยกว่า **2 ชั่วโมง**
-  - **ประตูบันไดหนีไฟ:** ประตูเหล็กทนไฟปิดอัตโนมัติ (Self-closing Fire Door) อัตราการทนไฟไม่น้อยกว่า **1 หรือ 2 ชั่วโมง**
-  - **ผนังร่วมระหว่างคูหาตึกแถวหรือบ้านแฝด:** ผนังก่อทึบด้วยวัสดุทนไฟ อัตราทนไฟไม่น้อยกว่า **2 ชั่วโมง** ก่อสูงชนท้องพื้นหรือหลังคา
-
----
-
-## 2. ทางหนีไฟและบันไดหนีไฟ (Egress & Fire Stairs) [S-004, S-005]
-  - **ระยะการเดินหนีไฟ (Travel Distance):**
-    - จุดใดๆ ภายในห้องพักหรือชั้นอาคาร ต้องมีระยะเดินถึงประตูทางออกสู่ทางหนีไฟหรือบันไดหนีไฟไม่เกิน **60.00 เมตร** (หรือ 45.00 เมตรในอาคารที่ไม่มีระบบสปริงเกลอร์)
-    - ทางตัน (Dead End Corridor): ความยาวไม่เกิน **10.00 เมตร**
-  - **จำนวนบันไดหนีไฟ:**
-    - อาคารสูงตั้งแต่ 4 ชั้นขึ้นไป หรือสูงเกิน 15.00 เมตร ต้องมีบันไดหนีไฟอย่างน้อย **2 แห่ง**
-    - บันไดหนีไฟทั้งสองแห่งต้องตั้งอยู่ห่างกันอย่างเหมาะสมเพื่อไม่ให้ถูกควันปิดกั้นพร้อมกัน
-  - **ความกว้างบันไดหนีไฟ:**
-    - บันไดหนีไฟต้องกว้างสุทธิไม่น้อยกว่า **0.90 เมตร** (หรือ 1.20 เมตรในอาคารสาธารณะ)
-    - ชานพักบันไดต้องมีความกว้างไม่น้อยกว่าความกว้างของบันได
-    - ลูกตั้งสูงไม่เกิน 20 ซม., ลูกนอนกว้างไม่น้อยกว่า 22 ซม.
+## 1. Fire Compartmentation & Structural Fire Resistance Ratings [S-016]
+Pursuant to the Ministry of Interior Notification B.E. 2567 (evaluated under ASTM E119 or ISO 834):
+- **Primary Columns and Girders in High-Rise & Extra-Large Buildings:** Fire resistance rating $\ge \mathbf{3	ext{ hours}}$.
+- **Reinforced Concrete Floor Assemblies:** Fire resistance rating $\ge \mathbf{2	ext{ hours}}$.
+- **Enclosures for Fire Exit Stairwells and Elevator Shafts:** Fire-rated masonry or concrete $\ge \mathbf{2	ext{ hours}}$.
+- **Fire Doors Serving Exit Stairwells:** Certified self-closing fire door assemblies rating $\ge \mathbf{1	ext{ to }2	ext{ hours}}$.
+- **Common Party Walls between Commercial Shophouse Units:** Solid non-combustible masonry rating $\ge \mathbf{2	ext{ hours}}$ extended continuously to the underside of non-combustible roof decks.
 
 ---
 
-## 3. ระบบระบายควันและการอัดอากาศ (Smoke Management & Pressurization) [S-005]
-  - **บันไดหนีไฟภายในอาคารสูง:** ต้องมีระบบอัดอากาศ (Pressurized Stairwell) เพื่อสร้างแรงดันบวกไม่ให้ควันไฟรั่วไหลเข้าไปในโถงบันไดขณะเปิดประตูหนีไฟ
-  - **โถงลิฟต์ดับเพลิง:** ต้องมีช่องระบายควันหรือระบบปรับความดันเพื่อความปลอดภัยของเจ้าหน้าที่ผจญเพลิง
+## 2. Means of Egress & Emergency Stairway Design [S-004, S-005]
+- **Maximum Allowable Travel Distance:**
+  - Common travel distance from any interior point to an enclosed exit door must not exceed **60.00 meters** (reduced to **45.00 meters** in non-sprinklered buildings).
+  - Maximum allowable dead-end corridor length: **10.00 meters**.
+- **Quantity and Distribution of Fire Exit Stairs:**
+  - Any structure $\ge 4$ stories or exceeding $15.00\ m$ in total height must feature at least **two independent fire exit stairways**.
+  - Evacuation stairs must be located remotely from each other to prevent simultaneous blockage by smoke or thermal convective plumes.
+- **Stairway Geometry:**
+  - Minimum clear stair width: **0.90 meter** (residential) or **1.20 meters** (public/assembly occupancies).
+  - Maximum riser height: $20\ cm$; minimum tread run: $22\ cm$.
+  - Enclosed interior stairwells must discharge directly to the exterior ground grade.
 
 ---
 
-## 4. อุปกรณ์และระบบดับเพลิง (Fire Protection Systems) [S-005, S-008]
-  - **เครื่องดับเพลิงมือถือ (Portable Fire Extinguishers):**
-    - ติดตั้งอย่างน้อย 1 เครื่อง ต่อพื้นที่ไม่เกิน 1,000 ตารางเมตร หรือระยะเดินไม่เกิน 45 เมตร
-    - ติดตั้งให้ส่วนบนสุดของตัวถังสูงจากพื้นไม่เกิน 1.50 เมตร
-  - **ระบบดับเพลิงอัตโนมัติ (Automatic Sprinkler System):**
-    - บังคับติดตั้งทุกชั้นในอาคารสูง (>= 23 ม.) และอาคารขนาดใหญ่พิเศษ (>= 10,000 ตร.ม.)
-  - **หัวรับน้ำดับเพลิงและสายฉีดน้ำดับเพลิง (Fire Hose Reel / Standpipe):**
-    - ติดตั้งหัวรับน้ำดับเพลิงภายนอกอาคารที่รถดับเพลิงเข้าถึงได้สะดวก
-    - ระบบท่อยืน (Dry/Wet Standpipe) ตามมาตรฐาน วสท. หรือ NFPA 14
+## 3. Smoke Control & Pressurization Systems [S-005]
+- **Interior Enclosed Stairways in High-Rise Buildings:** Must incorporate a mechanical stairwell pressurization system maintaining positive differential pressure between **25 to 50 Pascals (Pa)** with all exit doors closed, preventing toxic smoke infiltration.
+- **Fire Service Lift Lobbies:** Must provide dedicated smoke ventilation shafts or positive pressure smoke relief dampers.
 
 ---
 
-## 5. แสงสว่างฉุกเฉินและป้ายบอกทางหนีไฟ [S-008]
-  - ป้ายแสดงทางหนีไฟ (Exit Sign) ต้องส่องสว่างชัดเจนตลอดเวลา และมีแหล่งจ่ายไฟสำรองทำงานได้ต่อเนื่องไม่น้อยกว่า **2 ชั่วโมง**
-  - ไฟฟ้าแสงสว่างฉุกเฉิน (Emergency Lighting) ต้องส่องสว่างตามเส้นทางหนีไฟโดยอัตโนมัติภายใน **20 วินาที** หลังจากไฟฟ้าหลักดับ
+## 4. Active Fire Suppression Systems [S-005, S-008]
+- **Portable Fire Extinguishers:**
+  - At least 1 portable chemical extinguisher per $1,000\ m^2$ of floor area, distributed such that travel distance to the nearest unit does not exceed **45.00 meters**.
+  - Installation height: The top handle must not exceed **1.50 meters** above finished floor grade.
+- **Automatic Fire Sprinkler Systems:**
+  - Mandatory complete hydraulic sprinkler coverage across all levels of high-rise buildings ($\ge 23m$) and extra-large structures ($\ge 10,000\ m^2$).
+- **Standpipes and Fire Department Connections (FDC):**
+  - Combined wet standpipe systems with standardized Siamese connections located on the building exterior accessible to municipal fire pump engines.
+
+---
+
+## 5. Emergency Lighting & Exit Signage [S-008]
+- Illuminated exit directional signs must be permanently illuminated and backed up by emergency batteries providing at least **2 hours** of autonomous operation.
+- Emergency illumination along evacuation corridors must energize automatically within **20 seconds** upon loss of primary utility power.

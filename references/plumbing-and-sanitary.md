@@ -1,40 +1,37 @@
 ---
 name: plumbing-and-sanitary
-status: VERIFIED — อ้างอิงกฎกระทรวง ฉบับที่ 44 (พ.ศ. 2538), กฎกระทรวง ฉบับที่ 71 (พ.ศ. 2566), กฎกระทรวง ฉบับที่ 63 (พ.ศ. 2551), และแบบบ้านลอยน้ำ DPT Plan 361 (S-009, S-020)
+status: VERIFIED — Grounded in Ministerial Regulation No. 44 (B.E. 2538), No. 71 (B.E. 2566), No. 63 (B.E. 2551), and DPT Plan 361 (S-009, S-020).
 ---
 
-# ระบบประปาและสุขาภิบาล (Plumbing & Sanitary Systems)
+# Plumbing, Sanitary & Environmental Engineering
 
-## 1. ระบบบำบัดน้ำเสียและมาตรฐานน้ำทิ้ง [S-009: กฎกระทรวง ฉบับที่ 44 และ 71 (2566)]
-  - **การแยกประเภทท่อระบายน้ำ:**
-    - ท่อน้ำโสโครก (Soil Pipe): น้ำจากโถส้วม โถปัสสาวะ ต้องระบายเข้าสู่ถังบำบัดน้ำเสีย (Septic Tank / Aerobic Treatment Unit)
-    - ท่อน้ำทิ้ง (Waste Pipe): น้ำจากอ่างล้างหน้า ฝักบัว พื้นห้องน้ำ
-    - ท่อน้ำทิ้งไขมัน: น้ำจากห้องครัว อ่างล้างจาน ต้องผ่าน **บ่อดักไขมัน (Grease Trap)** ก่อนระบายรวมกับน้ำทิ้ง
-    - ท่อระบายน้ำฝน (Stormwater Drain): ต้องแยกเดี่ยว ห้ามต่อรวมกับท่อน้ำเสีย
-  - **บ่อดักไขมัน (ข้อกำหนดปี 2566):** อาคารอยู่อาศัย ตึกแถว ร้านอาหาร และภัตตาคาร ต้องติดตั้งบ่อดักไขมันที่มีขนาดความจุเหมาะสมก่อนปล่อยลงสู่ระบบบำบัดหรือท่อระบายน้ำสาธารณะ
-  - **การระบายน้ำทิ้ง:** น้ำเสียที่ผ่านการบำบัดแล้วต้องมีคุณภาพตามเกณฑ์มาตรฐานควบคุมการระบายน้ำทิ้งของกรมควบคุมมลพิษ ก่อนระบายลงสู่ท่อระบายน้ำสาธารณะ
-
----
-
-## 2. อัตราส่วนและจำนวนสุขภัณฑ์ [S-004: กฎกระทรวง ฉบับที่ 63 (พ.ศ. 2551)]
-  - **ห้องน้ำและห้องส้วม:** ต้องจัดให้มีจำนวนสุขภัณฑ์ขั้นต่ำตามสัดส่วนพื้นที่และประเภทอาคาร
-  - **ขนาดห้องส้วมขั้นต่ำ:**
-    - ห้องส้วมเดี่ยว: พื้นที่ไม่น้อยกว่า **0.90 ตารางเมตร** ด้านกว้างไม่น้อยกว่า **0.90 เมตร**
-    - ห้องน้ำและส้วมรวมกัน: พื้นที่ไม่น้อยกว่า **1.50 ตารางเมตร**
-    - ความสูงพื้นถึงเพดาน: ไม่น้อยกว่า **2.00 เมตร**
-  - **การระบายอากาศห้องน้ำ:** ต้องมีช่องเปิดสู่ภายนอกไม่น้อยกว่าร้อยละ 10 ของพื้นที่ หรือติดตั้งพัดลมระบายอากาศกลที่มีอัตราการระบายอากาศไม่น้อยกว่า 4 เท่าของปริมาตรห้องต่อชั่วโมง
+## 1. Drainage Segregation & Effluent Treatment Standards [S-009: Ministerial Reg 44 & 71]
+- **Strict Pipe Network Segregation:**
+  - **Soil Piping (Blackwater):** Discharges water closets and urinals directly to primary septic/aerobic treatment units.
+  - **Waste Piping (Greywater):** Discharges lavatories, floor drains, and showers.
+  - **Grease Piping:** Kitchen sinks and food preparation drains must pass through a **Grease Trap** prior to discharge into treatment tanks or municipal sewers.
+  - **Stormwater Drainage:** Must discharge directly to municipal storm sewers; cross-connections between storm and sanitary lines are illegal.
+- **Mandatory Grease Trap Rules (Enacted B.E. 2566):** All residential homes, commercial shophouses, and food establishments must install an approved grease interceptor.
+- **Effluent Quality Standards:** Discharged wastewater must satisfy Pollution Control Department (PCD) standards ($BOD \le 20	ext{--}30\ mg/L$, $TSS \le 30	ext{--}50\ mg/L$).
 
 ---
 
-## 3. ถังเก็บน้ำสำรองและการจ่ายน้ำประปา
-  - **ปริมาณน้ำสำรอง:** ควรสำรองน้ำประปาไว้ใช้ได้อย่างน้อย **1 วัน (24 ชั่วโมง)**
-    - บ้านพักอาศัย: 150–200 ลิตร/คน/วัน
-    - อาคารสำนักงาน: 50–70 ลิตร/คน/วัน
-    - ห้างสรรพสินค้า / ร้านอาหาร: 10–20 ลิตร/ที่นั่ง/วัน
-  - **ระบบจ่ายน้ำ:** ใช้ระบบถังน้ำบนดาดฟ้าจ่ายลงด้วยแรงโน้มถ่วง (Gravity Downfeed) หรือระบบปั๊มเพิ่มแรงดันอัตโนมัติ (Booster Pump System) พร้อมระบบท่อระบายอากาศ (Vent Pipe) ป้องกันกาลักน้ำและการเกิดสุญญากาศในท่อ
+## 2. Plumbing Fixture Ratios & Bathroom Layouts [S-004: Ministerial Reg 63]
+- Water closet compartments must provide a clear floor area $\ge \mathbf{0.90\ m^2}$ (width $\ge 0.90m$).
+- Combined shower/toilet rooms must provide a clear area $\ge \mathbf{1.50\ m^2}$.
+- Mechanical ventilation for unwindowed bathrooms must provide at least **4 air changes per hour (ACH)**.
 
 ---
 
-## 4. นวัตกรรมระบบสุขาภิบาลในสภาวะน้ำท่วม (บ้านลอยน้ำ Plan 361) [S-020]
-  - การติดตั้งถังบำบัดแบบชีวภาพ (EM Digestion Unit) ใต้ท้องบ้านลอยน้ำ
-  - การใช้ท่อและข้อต่อยืดหยุ่น (Flexible Hose Connectors) เชื่อมต่อระบบท่อน้ำดีและน้ำทิ้งระหว่างตัวบ้านที่ลอยขึ้น-ลงกับระบบท่อหลักบนฝั่ง
+## 3. Potable Water Storage & Distribution
+- **24-Hour Autonomous Storage Reserve:**
+  - Residential dwellings: 150–200 Liters per occupant per day.
+  - Commercial offices: 50–70 Liters per employee per day.
+  - Restaurants: 15–20 Liters per customer meal per day.
+- Dual roof-gravity downfeed or variable-frequency booster pump systems must include anti-siphon backflow preventers and continuous atmospheric vent piping.
+
+---
+
+## 4. Amphibious Utility Innovations (DPT Plan 361) [S-020]
+- Sealed biological digestion modules mounted beneath buoyant floor framing.
+- Heavy-duty flexible accordion pipe couplings accommodating up to 3 meters of vertical float displacement during flood seasons.

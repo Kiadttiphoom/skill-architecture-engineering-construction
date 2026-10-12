@@ -1,21 +1,16 @@
 ---
 name: building-renovation
-status: VERIFIED — อ้างอิง พ.ร.บ. ควบคุมอาคาร มาตรา 21, 32, 33 (การดัดแปลงและเปลี่ยนการใช้) และคู่มือกรมโยธาธิการฯ 2552 (S-002, S-003)
+status: VERIFIED — Grounded in Building Control Act Sections 21, 32, 33, and DPT Practice Manual 2552 (S-002, S-003).
 ---
 
-# ขั้นตอนการต่อเติมและดัดแปลงอาคาร (Building Renovation Workflow)
+# Building Renovation & Structural Alteration Workflow
 
-## ลำดับการตรวจสอบทางกฎหมายและวิศวกรรม
-1. **เช็คว่าเข้าข่าย "ดัดแปลงอาคาร" หรือไม่ [S-002, S-003]:**
-   - เปลี่ยนโครงสร้าง คสล. หรือเหล็ก $
-ightarrow$ **ต้องขออนุญาตทุกกรณี**
-   - เพิ่มน้ำหนักให้โครงสร้างเดิมเกิน 10% $
-ightarrow$ **ต้องขออนุญาต**
-   - ลด/ขยายพื้นที่ชั้นใดชั้นหนึ่งเกิน 5 ตร.ม. $
-ightarrow$ **ต้องขออนุญาต**
-2. **เช็คการเปลี่ยนการใช้อาคาร (มาตรา 33) [S-003]:**
-   - เปลี่ยนบ้านพักเป็นร้านค้า ร้านอาหาร หรือโรงแรม $
-ightarrow$ ต้องขออนุญาตเปลี่ยนการใช้ (แบบ อ.5)
-3. **ประเมินความมั่นคงแข็งแรงของโครงสร้างเดิม:**
-   - ตรวจสอบ As-built Drawings หรือสแกนแนวเหล็กเสริม
-   - ตรวจสอบรอยแตกร้าวและการทรุดตัวของฐานรากเดิมก่อนเพิ่มน้ำหนักบรรทุก
+## Statutory & Engineering Steps
+1. **Permit Threshold Evaluation [S-002, S-003]:**
+   - Modifying RC or structural steel elements requires a formal permit.
+   - Adding dead load exceeding 10% requires a formal permit and calculation review.
+   - Expanding or reducing floor area by $>5.00\ m^2$ requires a permit.
+2. **Change of Occupancy Permits (Section 33) [S-003]:**
+   - Converting residential space into commercial, assembly, or hotel occupancy requires Form A.5 permit.
+3. **Existing Structural Appraisal:**
+   - Review as-built drawings and non-destructively test existing rebar and concrete strength before adding structural loads.

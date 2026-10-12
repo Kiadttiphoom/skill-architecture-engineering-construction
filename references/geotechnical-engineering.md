@@ -1,19 +1,19 @@
 ---
 name: geotechnical-engineering
-status: VERIFIED — อ้างอิงกฎกระทรวง ฉบับที่ 6 (กำลังรับน้ำหนักดินฐานราก), กฎกระทรวงแผ่นดินไหว 2564, และคู่มือวิศวกรรมฐานราก กรมโยธาธิการฯ (S-006, S-007)
+status: VERIFIED — Grounded in Ministerial Regulation No. 6, Seismic Regulation 2564, and Bangkok Subsoil Investigation Data (S-006, S-007).
 ---
 
-# วิศวกรรมปฐพีและธรณีเทคนิค (Geotechnical Engineering)
+# Geotechnical Engineering & Soil Mechanics
 
-## 1. ลำดับชั้นดินในพื้นที่กรุงเทพฯ และที่ราบลุ่มภาคกลาง (Bangkok Subsoil Profile) [S-006, S-007]
-  - **ชั้นดินเหนียวอ่อนกรุงเทพฯ (Soft Bangkok Clay):** ความลึก 0 ถึง 14–16 เมตร กำลังรับแรงเฉือนต่ำมาก ($S_u pprox 1.5–2.5\ ตัน/m^2$) มีการทรุดตัวสูงมาก ห้ามวางฐานรากแผ่
-  - **ชั้นดินเหนียวแข็งปานกลางถึงแข็ง (Medium to Stiff Clay):** ความลึก 16 ถึง 20 เมตร
-  - **ชั้นทรายชั้นที่หนึ่ง (First Sand Layer):** ความลึก 20 ถึง 24 เมตร ชั้นทรายแน่นปลายเสาเข็มอาคารทั่วไป 2–8 ชั้น (กำลังปลายเข็ม $N-SPT > 30$)
-  - **ชั้นดินเหนียวแข็งมาก (Hard Clay):** ความลึก 24 ถึง 30 เมตร
-  - **ชั้นทรายชั้นที่สอง (Second Sand Layer):** ความลึก 30 ถึง 45 เมตร ปลายเสาเข็มเจาะสำหรับอาคารสูง (> 23 ม.) และอาคารขนาดใหญ่พิเศษ
+## 1. Bangkok Subsoil Stratigraphy [S-006, S-007]
+- **Soft Bangkok Marine Clay:** Depth 0 to 14–16 meters; undrained shear strength $S_u pprox 1.5	ext{--}2.5\ t/m^2$; highly compressible; shallow spread footings prohibited.
+- **Medium to Stiff Clay:** Depth 16 to 20 meters.
+- **First Sand Layer:** Depth 20 to 24 meters; dense sand layer ($N	ext{-SPT} > 30$); standard termination for driven piles supporting 2-to-8 story structures.
+- **Hard Clay:** Depth 24 to 30 meters.
+- **Second Sand Layer:** Depth 30 to 45 meters; dense bearing stratum for deep bored piles supporting high-rise buildings.
 
 ---
 
-## 2. การวิบัติของดินและมาตรการป้องกันงานขุด (Excavation & Shoring)
-  - การขุดดินลึกเกิน 1.50 เมตร ต้องทำระบบค้ำยันดิน (Sheet Pile / Soldier Pile) ป้องกันดินสไลด์
-  - การขุดดินในเขตดินเหนียวอ่อนกรุงเทพฯ ต้องคำนึงถึงการดันตัวของก้นหลุมขุด (Basal Heave) และผลกระทบต่ออาคารข้างเคียงตาม พ.ร.บ. ควบคุมอาคาร
+## 2. Deep Excavation Shoring & Dewatering
+- Excavations deeper than 1.50 meters require engineered lateral earth retention systems (steel sheet piling or soldier beams with lagging).
+- Assess basal heave stability in soft clay basins and monitor adjacent property settlements.

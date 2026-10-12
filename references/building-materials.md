@@ -1,27 +1,25 @@
 ---
 name: building-materials
-status: VERIFIED — อ้างอิงประกาศกระทรวงมหาดไทย คุณสมบัติการทนไฟของวัสดุ 2567, มาตรฐานเหล็ก มอก. 2567, และแบบแปลนมาตรฐาน DPT (S-015, S-016, S-019, S-021)
+status: VERIFIED — Grounded in MOI Fire Rating Notification B.E. 2567, TIS Standards, and Building Energy Code 2564 (S-015, S-016, S-017).
 ---
 
-# วัสดุก่อสร้าง (Building Materials)
+# Building Materials & Thermal Performance
 
-## 1. มาตรฐานวัสดุโครงสร้างหลักตาม มอก. และกฎกระทรวง [S-006, S-015]
-  - **ปูนซีเมนต์ปอร์ตแลนด์:** มอก. 15 สำหรับปูนซีเมนต์ปอร์ตแลนด์ประเภทหนึ่ง (โครงสร้าง คสล. ทั่วไป), มอก. 80 สำหรับปูนซีเมนต์ผสม (งานก่อฉาบ)
-  - **เหล็กเสริมคอนกรีต:**
-    - เหล็กเส้นกลมผิวเรียบ: มอก. 20 (ชั้นคุณภาพ SR24)
-    - เหล็กข้ออ้อย: มอก. 24 (ชั้นคุณภาพ SD30, SD40, SD50) ต้านแผ่นดินไหวแนะนำใช้ SD40
-  - **เหล็กรูปพรรณ:** มอก. 1227 (รีดร้อน SS400, SM400) และ มอก. 107 (ท่อเหล็กกลม/เหลี่ยม)
-
----
-
-## 2. วัสดุทนไฟและกันไฟตามประกาศ มท. 2567 [S-016]
-  - **ผนังทึบกันไฟ (Fire Wall):** อิฐมอญครึ่งแผ่นฉาบปูนสองด้าน (หนา 10 ซม.) อัตราทนไฟ 2 ชั่วโมง / อิฐมวลเบาหนาไม่น้อยกว่า 10 ซม. ฉาบปูน อัตราทนไฟ 4 ชั่วโมง
-  - **แผ่นยิปซัมทนไฟ (Fire-resistant Gypsum Board):** ชนิดทนไฟ (Type X) หนา 15 มม. ชั้นเดียวทนไฟ 1 ชั่วโมง สองชั้นทนไฟ 2 ชั่วโมง
-  - **กระจกกันไฟ (Fire-rated Glass):** กระจกเสริมลวดตาข่าย หรือกระจกลามิเนตทนไฟ ป้องกันไฟและควันได้ 60–120 นาที
+## 1. Structural Materials & National Standards [S-006, S-015]
+- Portland Cement: TIS 15 (Type I Normal Portland Cement); TIS 80 (Mixed Cement for masonry/plaster).
+- Reinforcing Steel: TIS 20 (Round Plain Bars SR24); TIS 24 (Deformed Bars SD30, SD40, SD50).
+- Structural Steel: TIS 1227 (Hot-rolled sections SS400, SM400); TIS 107 (Hollow sections).
 
 ---
 
-## 3. วัสดุเปลือกอาคารและฉนวนกันความร้อน (Energy Envelope) [S-017: ประกาศ ก.พลังงาน BEC]
-  - ผนังภายนอกต้องมีค่าการถ่ายเทความร้อนรวมของผนัง (OTTV) ไม่เกิน **50 วัตต์/ตารางเมตร**
-  - หลังคาต้องมีค่าการถ่ายเทความร้อนรวมของหลังคา (RTTV) ไม่เกิน **15 วัตต์/ตารางเมตร**
-  - ฉนวนกันความร้อน (Fiberglass / PU Foam) หนาไม่น้อยกว่า 75–100 มม. ใต้หลังคาช่วยลดความร้อนเข้าสู่อาคารได้กว่าร้อยละ 40
+## 2. Fire-Rated Assembly Specifications [S-016]
+- Solid Masonry Walls: 10 cm plastered solid clay brick (2h fire rating); 10 cm autoclaved aerated concrete (AAC) plastered (4h fire rating).
+- Gypsum Partitions: 15 mm Type X gypsum board (1h for single layer, 2h for double layer).
+- Fire Glazing: Wire-reinforced glass or fire-rated laminate resisting flame and hot gases for 60 to 120 minutes.
+
+---
+
+## 3. Building Envelope Thermal Performance [S-017: Building Energy Code]
+- Overall Thermal Transfer Value (OTTV): Maximum allowable value $\le \mathbf{50.0\ W/m^2}$.
+- Roof Thermal Transfer Value (RTTV): Maximum allowable value $\le \mathbf{15.0\ W/m^2}$.
+- Ceiling/Roof Insulation: Minimum 75–100 mm glasswool or PU foam reducing ceiling heat flux by up to 40%.

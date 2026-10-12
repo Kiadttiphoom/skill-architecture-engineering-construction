@@ -1,48 +1,48 @@
 ---
 name: building-space-planning
-status: VERIFIED — อ้างอิงกฎกระทรวง ฉบับที่ 7 (ที่จอดรถ), กฎกระทรวง ฉบับที่ 55 (ระยะร่น/มิติห้อง/บันได), กฎกระทรวงสิ่งอำนวยความสะดวกผู้พิการ 2548/2564, และชุดแบบแปลนมาตรฐาน DPT Plan 362/369/414 (S-004, S-010, S-011, S-019, S-021)
+status: VERIFIED — Grounded in Ministerial Regulation No. 7 (Parking), Ministerial Regulation No. 55 (Geometries/Stairs), Accessibility Regulation 2548/2564, and DPT Standard Drawings (S-004, S-010, S-011, S-019, S-021).
 ---
 
-# การวางผังพื้นที่ใช้สอยและการสัญจร (Building Space Planning & Circulation)
+# Space Planning, Human Dimensions & Circulation
 
-## 1. ขนาดและมิติพื้นที่ใช้สอยขั้นต่ำตามกฎหมาย [S-004: กฎกระทรวง ฉบับที่ 55]
-  - **ห้องนอน / ห้องพักอาศัย:**
-    - พื้นที่ใช้สอยไม่น้อยกว่า **8.00 ตารางเมตร**
-    - ด้านแคบที่สุดต้องกว้างไม่น้อยกว่า **2.50 เมตร**
-    - ความสูงจากพื้นถึงเพดานสุทธิไม่น้อยกว่า **2.60 เมตร**
-  - **ห้องน้ำและห้องส้วม:**
-    - ส้วมอย่างเดียว: พื้นที่ไม่น้อยกว่า **0.90 ตารางเมตร** ด้านแคบไม่น้อยกว่า **0.90 เมตร**
-    - ห้องอาบน้ำและส้วมรวมกัน: พื้นที่ไม่น้อยกว่า **1.50 ตารางเมตร**
-    - ความสูงจากพื้นถึงเพดานสุทธิไม่น้อยกว่า **2.00 เมตร**
-  - **ช่องทางเดินภายในอาคาร (Corridors):**
-    - อาคารอยู่อาศัย / บ้านพัก: กว้างไม่น้อยกว่า **1.00 เมตร**
-    - อาคารอยู่อาศัยรวม / หอพัก / โรงแรม: กว้างไม่น้อยกว่า **1.50 เมตร** (ทางเดินร่วม)
-    - อาคารเรียน / โรงพยาบาล: กว้างไม่น้อยกว่า **2.00 ถึง 2.40 เมตร**
-
----
-
-## 2. ทางสัญจรแนวดิ่ง: บันไดและทางลาด [S-004, S-011]
-  - **บันไดบ้านพักอาศัย:** กว้างสุทธิไม่น้อยกว่า **0.90 เมตร**, ลูกตั้งสูงไม่เกิน **20 ซม.**, ลูกนอนกว้างไม่น้อยกว่า **22 ซม.**
-  - **บันไดอาคารสาธารณะ / อยู่อาศัยรวม:** กว้างสุทธิไม่น้อยกว่า **1.50 เมตร**, ลูกตั้งสูงไม่เกิน **18 ซม.**, ลูกนอนกว้างไม่น้อยกว่า **25 ซม.**
-  - **ชานพักบันได:** ต้องจัดให้มีทุกระยะความสูงไม่เกิน **3.00 เมตร** โดยชานพักต้องกว้างไม่น้อยกว่าความกว้างของตัวบันได
-  - **ทางลาดสำหรับผู้พิการและคนชรา (Universal Design):**
-    - ความชันสูงสุดไม่เกิน **1:12** (ชัน 1 เมตร ต้องยาวอย่างน้อย 12 เมตร)
-    - ความกว้างสุทธิไม่น้อยกว่า **0.90 เมตร** (ถ้าเป็นทางสัญจรหลักแนะนำ 1.50 เมตร)
-    - ทางลาดยาวเกิน 6.00 เมตร ต้องมีชานพักยาวไม่น้อยกว่า **1.50 เมตร**
-    - ราวจับทั้งสองข้างสูงจากพื้น 75–90 ซม.
+## 1. Statutory Minimum Spatial Geometries [S-004: Ministerial Regulation No. 55]
+- **Habitable Bedrooms & Living Quarters:**
+  - Minimum floor area: **8.00 square meters**.
+  - Minimum clear width: **2.50 meters**.
+  - Minimum finished floor-to-ceiling clear height: **2.60 meters**.
+- **Domestic Bathrooms & Water Closets:**
+  - Water closet alone: Minimum area **0.90 square meter**; minimum width **0.90 meter**.
+  - Combined bathroom and shower: Minimum area **1.50 square meters**.
+  - Minimum finished ceiling height: **2.00 meters**.
+- **Internal Corridors & Hallways:**
+  - Single-family residential dwellings: Clear width $\ge \mathbf{1.00\ meter}$.
+  - Multi-family residential, dormitories, and hotels: Clear width $\ge \mathbf{1.50\ meters}$.
+  - Educational and healthcare institutions: Clear width $\ge \mathbf{2.00	ext{ to }2.40\ meters}$.
 
 ---
 
-## 3. สัดส่วนและขนาดช่องจอดรถยนต์ (Parking Standards) [S-010: กฎกระทรวง ฉบับที่ 7]
-  - **มิติช่องจอดรถยนต์นั่ง (Stall Dimensions):**
-    - จอดตั้งฉาก 90 องศา: กว้างไม่น้อยกว่า **2.40 เมตร** ยาวไม่น้อยกว่า **5.00 เมตร**
-    - จอดขนานทางเดินรถ: กว้างไม่น้อยกว่า **2.40 เมตร** ยาวไม่น้อยกว่า **6.00 เมตร**
-    - ช่องจอดรถคนพิการ: กว้างไม่น้อยกว่า **3.40 เมตร** (มีแถบทางลงข้างรถ 1.00 ม.) ยาวไม่น้อยกว่า **5.00 เมตร** [S-011]
-  - **ความกว้างช่องทางวิ่งในลานจอดรถ:**
-    - ทางวิ่งเดินรถทางเดียว (One-way): กว้างไม่น้อยกว่า **3.50 เมตร**
-    - ทางวิ่งเดินรถสองทาง (Two-way): กว้างไม่น้อยกว่า **6.00 เมตร**
-  - **อัตราส่วนที่จอดรถยนต์ขั้นต่ำ:**
-    - ห้างสรรพสินค้า / ศูนย์การค้า: 1 คัน ต่อพื้นที่ 20–40 ตร.ม.
-    - อาคารสำนักงาน: 1 คัน ต่อพื้นที่ 60 ตร.ม.
-    - โรงแรม: 1 คัน ต่อ 5–10 ห้องพัก
-    - อาคารชุด / คอนโดมิเนียม: พื้นที่เกิน 60 ตร.ม. คิด 1 คัน ต่อ 1 ห้องชุด (พื้นที่ไม่เกิน 60 ตร.ม. คิด 1 คัน ต่อ 2 ห้องชุด)
+## 2. Vertical Circulation: Staircases & Accessibility Ramps [S-004, S-011]
+- **Residential Stairways:** Clear width $\ge \mathbf{0.90\ meter}$; maximum riser height $20\ cm$; minimum tread run $22\ cm$.
+- **Public / Assembly Stairways:** Clear width $\ge \mathbf{1.50\ meters}$; maximum riser height $18\ cm$; minimum tread run $25\ cm$.
+- **Intermediate Landings:** Mandatory for any continuous rise exceeding $3.00\ meters$, with depth $\ge$ stair width.
+- **Universal Design Ramps for Accessibility:**
+  - Maximum allowable slope gradient: **1:12**.
+  - Minimum clear passage width: **0.90 meter** (1.50 meters recommended for two-way wheelchair traffic).
+  - Maximum unbroken ramp length: **6.00 meters** between intermediate level landings (landing length $\ge 1.50\ m$).
+  - Continuous handrails on both sides at a height of 75–90 cm above floor grade.
+
+---
+
+## 3. Vehicle Parking & Stall Standards [S-010: Ministerial Regulation No. 7]
+- **Stall Dimensions:**
+  - $90^\circ$ Perpendicular Stall: Width $\ge \mathbf{2.40\ meters}$; Length $\ge \mathbf{5.00\ meters}$.
+  - Parallel Curb Stall: Width $\ge \mathbf{2.40\ meters}$; Length $\ge \mathbf{6.00\ meters}$.
+  - Accessible Disabled Stall: Width $\ge \mathbf{3.40\ meters}$ (including a 1.00m transfer aisle); Length $\ge \mathbf{5.00\ meters}$ [S-011].
+- **Driveway Aisles within Garages:**
+  - One-way traffic circulation aisle: Clear width $\ge \mathbf{3.50\ meters}$.
+  - Two-way traffic circulation aisle: Clear width $\ge \mathbf{6.00\ meters}$.
+- **Prescriptive Parking Ratios:**
+  - Shopping Malls / Commercial Centers: 1 stall per 20–40 $m^2$ of net retail area.
+  - Office Buildings: 1 stall per 60 $m^2$ of usable floor area.
+  - Hotel Occupancies: 1 stall per 5–10 guest rooms.
+  - Condominiums / Apartments: Floor area $>60\ m^2$ requires 1 stall per unit; floor area $\le 60\ m^2$ requires 1 stall per 2 units.

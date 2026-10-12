@@ -1,26 +1,26 @@
 ---
 name: residential-building-design
-status: VERIFIED — อ้างอิงกฎกระทรวง ฉบับที่ 55, กฎกระทรวง ฉบับที่ 6, กฎกระทรวงแผ่นดินไหว 2564, และชุดแบบบ้าน DPT Plan 361/396/397/414/416 (S-004, S-006, S-007, S-020, S-021)
+status: VERIFIED — Grounded in Ministerial Regulations No. 6, 55, Seismic Regulation 2564, and DPT Residential Plans (S-004, S-006, S-007, S-020, S-021).
 ---
 
-# ขั้นตอนการออกแบบบ้านพักอาศัย 1–2 ชั้น (Residential Building Design Workflow)
+# Residential Building Design Workflow (1–2 Stories)
 
-## ข้อมูลนำเข้าที่ต้องตรวจสอบ (Inputs Checklist)
-  - ขนาดแปลงที่ดิน หน้ากว้าง ความลึก และแนวเขตที่ดินข้างเคียง
-  - ความกว้างถนนสาธารณะหน้าบ้าน (เพื่อเช็คระยะร่น 6.00 ม. จากกึ่งกลางถนน หรือ 1.00/2.00 ม.)
-  - ผลสำรวจดินหรือลักษณะดินในพื้นที่ (ดินอ่อนภาคกลาง/กทม. ต้องใช้เสาเข็ม vs ดินแข็งภาคอื่นใช้ฐานแผ่)
-  - พื้นที่เสี่ยงแผ่นดินไหว (บริเวณ 1, 2, 3 เพื่อเตรียม Ductile Detailing)
+## Required Inputs Checklist
+- Boundary survey, parcel width, depth, and orientation.
+- Fronting public road right-of-way width (determines 6.00m centerline setback or 1.00m/2.00m road clearance).
+- Geotechnical soil data (Soft clay requiring driven piles vs. Competent soil supporting spread footings).
+- Regional seismic hazard zoning (Zones 1, 2, 3 requiring ductile frame detailing).
 
-## ลำดับการออกแบบและตัดสินใจ (Design Steps)
-1. **จัดวางผังแม่บทและระยะร่นตามกฎหมาย [S-004]:**
-   - บ้านเดี่ยว: เว้นที่ว่างเปิดโล่งรอบอาคาร $\ge 30\%$ ของพื้นที่ดิน
-   - ผนังมีช่องเปิด: ร่นห่างจากแนวเขตที่ดิน $\ge 2.00$ ม. (สูง $\le 9$ ม.)
-   - ผนังทึบ: ร่น $\ge 0.50$ ม. หรือชิดเขต $0.00$ ม. เมื่อมีหนังสือยินยอม
-2. **วางผังพื้นที่ใช้สอยภายใน [S-004]:**
-   - ห้องนอน $\ge 8.00$ ตร.ม. กว้าง $\ge 2.50$ ม. เพดานสูง $\ge 2.60$ ม.
-   - บันไดกว้าง $\ge 0.90$ ม. ลูกตั้ง $\le 20$ ซม. ลูกนอน $\ge 22$ ซม.
-3. **กำหนดน้ำหนักบรรทุกและระบบโครงสร้าง [S-006]:**
-   - น้ำหนักบรรทุกจร: พื้นห้องพัก 150 $kg/m^2$, หลังคา 30 $kg/m^2$, บันได 400 $kg/m^2$
-   - วางผังเสา คสล. ช่วงพาด 3.50–5.00 เมตร
-4. **วางระบบสุขาภิบาลและสิ่งแวดล้อม [S-009]:**
-   - ติดตั้งบ่อดักไขมันใต้ซิงค์ครัว และถังบำบัดน้ำเสียรวม (Septic Tank)
+## Step-by-Step Engineering Execution
+1. **Site Plan & Statutory Clearances [S-004]:**
+   - Single-family detached homes require uncovered open space $\ge 30\%$ of parcel area.
+   - Walls with window openings require $\ge 2.00m$ setback (for heights $\le 9m$).
+   - Blind solid walls require $\ge 0.50m$ setback (or $0.00m$ with written neighbor consent).
+2. **Spatial Layout & Geometric Clearances [S-004]:**
+   - Habitable bedrooms $\ge 8.00\ m^2$, width $\ge 2.50m$, clear height $\ge 2.60m$.
+   - Stairways: clear width $\ge 0.90m$, riser $\le 20cm$, tread $\ge 22cm$.
+3. **Structural Framing & Load Assignment [S-006]:**
+   - Prescriptive design live loads: living rooms/bedrooms $150\ kg/m^2$, roofs $30\ kg/m^2$, stairs $400\ kg/m^2$.
+   - Structural grid planning: RC beam spans typically 3.50 to 5.00 meters.
+4. **Sanitary & Environmental Systems [S-009]:**
+   - Install grease trap under kitchen sink; discharge soil lines to an approved anaerobic/aerobic septic tank.

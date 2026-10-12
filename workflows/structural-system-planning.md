@@ -1,14 +1,16 @@
 ---
 name: structural-system-planning
-status: VERIFIED — อ้างอิงกฎกระทรวง ฉบับที่ 6, กฎกระทรวงแผ่นดินไหว 2564, และประกาศ มท. มาตรฐานเหล็ก 2567 (S-006, S-007, S-015, S-021)
+status: VERIFIED — Grounded in Ministerial Regulation No. 6, Seismic Regulation 2564, and MOI Steel Standard 2567 (S-006, S-007, S-015, S-021).
 ---
 
-# ขั้นตอนการวางระบบโครงสร้าง (Structural System Planning Workflow)
+# Structural Framing & System Planning Workflow
 
-## ลำดับการวิเคราะห์และออกแบบ (Workflow Steps)
-1. **กำหนดน้ำหนักบรรทุกตามกฎหมาย [S-006]:** รวบรวม Dead Load และกำหนด Live Load ตามประเภทการใช้
-2. **เลือกประเภทยโครงสร้างหลัก:**
-   - คอนกรีตเสริมเหล็ก (คสล.): เหมาะกับอาคารทั่วไป 1–8 ชั้น คุ้มค่าและทนไฟตามธรรมชาติ
-   - โครงสร้างเหล็กรูปพรรณ: เหมาะกับช่วงพาดกว้าง ก่อสร้างรวดเร็ว (ต้องหุ้มสีกันไฟตามประกาศ มท. 2567)
-3. **วิเคราะห์แรงลมและแผ่นดินไหว [S-006, S-007]:** คำนวณแรงด้านข้าง และจัดระบบต้านทาน (Moment Frame หรือ Shear Wall)
-4. **ให้รายละเอียดการเสริมเหล็กเหนียว [S-021]:** เสริมเหล็กปลอกถี่บริเวณข้อต่อคาน-เสาตาม มยผ. 1301/1302
+## Step-by-Step Engineering Execution
+1. **Dead & Live Load Compilation [S-006]:** Assign prescriptive live loads based on occupancy; calculate dead loads.
+2. **Framing Material Selection:**
+   - Reinforced concrete frame: Cost-effective, natural fire resistance for 1-to-8 story buildings.
+   - Structural steel frame: Ideal for long spans; requires certified fire-protective coatings under MOI B.E. 2567.
+3. **Lateral Wind & Seismic Analysis [S-006, S-007]:**
+   - Compute height-tiered lateral wind pressures (50 to 160 $kg/m^2$).
+   - In Zones 1, 2, and 3, model earthquake forces using response spectra under DPT 1301/1302.
+4. **Ductile Detailing [S-021]:** Provide closed confinement stirrups with $135^\circ$ hooks in plastic hinge zones.

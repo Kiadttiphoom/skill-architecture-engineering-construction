@@ -1,83 +1,86 @@
 ---
 name: thailand-building-regulations
-status: VERIFIED — บรรจุข้อกำหนดจาก พ.ร.บ. ควบคุมอาคาร, กฎกระทรวง ฉบับที่ 4, 6, 7, 33, 39, 44, 47, 55, 71, กฎกระทรวงแผ่นดินไหว 2564, ข้อบัญญัติ กทม. 2544 และคู่มือกรมโยธาธิการฯ 2552 (S-001 ถึง S-021)
+status: VERIFIED — Built upon the Building Control Act B.E. 2522, Ministerial Regulations No. 4, 6, 7, 33, 39, 44, 47, 55, 71, Seismic Regulation 2564, BMA Ordinance 2544, and DPT Practice Manual 2552 (S-001 to S-021).
 ---
 
-# กฎหมายและมาตรฐานอาคารของไทย (Thailand Building Regulations)
+# Thailand Building Regulations & Statutory Codes
 
-## 1. ลำดับชั้นทางกฎหมายและมาตรฐานวิศวกรรม
-กฎหมายลำดับสูงสุด: **พระราชบัญญัติควบคุมอาคาร พ.ศ. 2522 (และที่แก้ไขเพิ่มเติม)** [S-003]
-  $
-ightarrow$ **กฎกระทรวง** (ออกตามความในมาตรา 5 และมาตรา 8) [S-004, S-005, S-006, S-008, S-009, S-010, S-011]
-  $
-ightarrow$ **ข้อบัญญัติท้องถิ่น / ข้อบัญญัติกรุงเทพมหานคร พ.ศ. 2544** [S-018]
-  $
-ightarrow$ **กฎหมายเฉพาะทาง** (พ.ร.บ. โรงงาน [S-012], พ.ร.บ. โรงแรม [S-014], พ.ร.บ. หอพัก [S-013], ผังเมืองรวม [S-017])
-  $
-ightarrow$ **มาตรฐานวิศวกรรมและสถาปัตยกรรม** (มยผ. กรมโยธาธิการฯ, วสท., สมาคมสถาปนิกสยาม [S-015, S-016])
+## 1. Statutory Hierarchy & Code Architecture
+1. **Primary Governing Statute:** Building Control Act B.E. 2522 (1979) and Amendments through B.E. 2560 (2017) [S-003].
+2. **Ministerial Regulations:** Enacted under Sections 5 and 8 of the primary statute [S-004, S-005, S-006, S-008, S-009, S-010, S-011].
+3. **Local Municipal Ordinances:** Bangkok Metropolitan Administration (BMA) Ordinance B.E. 2544 (2001) [S-018] and specific municipal bylaws.
+4. **Special Statutory Mandates:** Factory Act [S-012], Hotel Act [S-014], Dormitory Act [S-013], Comprehensive City Planning Acts [S-017].
+5. **National Engineering & Technical Standards:** Department of Public Works and Town & Country Planning (DPT Standards), Engineering Institute of Thailand (EIT), and Thai Industrial Standards Institute (TIS) [S-015, S-016].
 
 ---
 
-## 2. กระบวนการขออนุญาตและเงื่อนไขทางกฎหมาย [S-002, S-003]
-### 2.1 การยื่นขออนุญาตปกติ (มาตรา 21)
-  - ต้องยื่นคำขอรับใบอนุญาต (แบบ ข.1) ต่อเจ้าพนักงานท้องถิ่น (เทศบาล, อบต., กทม., พัทยา) พร้อมแผนผังบริเวณ แบบแปลน รายการประกอบแบบ และรายการคำนวณโครงสร้าง
-  - เจ้าพนักงานท้องถิ่นต้องตรวจพิจารณาให้แล้วเสร็จภายใน 45 วัน (ขยายเวลาได้ไม่เกิน 2 ครั้ง ครั้งละไม่เกิน 45 วัน)
-  - อายุใบอนุญาต: พื้นที่ไม่เกิน 10,000 ตร.ม. อายุ 1 ปี, 10,000–100,000 ตร.ม. อายุ 2 ปี, เกิน 100,000 ตร.ม. อายุ 3 ปี
+## 2. Permitting Procedures and Administrative Authority [S-002, S-003]
 
-### 2.2 การแจ้งก่อสร้างโดยไม่ต้องรอใบอนุญาต (มาตรา 39 ทวิ)
-  - เจ้าของอาคารสามารถแจ้งเริ่มก่อสร้างได้ทันทีเมื่อได้รับ "ใบรับแจ้ง" โดยต้องใช้แบบแปลนและรายการคำนวณที่ลงนามรับรองโดยสถาปนิกและวิศวกรผู้ได้รับใบอนุญาตประกอบวิชาชีพควบคุม
+### 2.1 Standard Permitting Workflow (Section 21)
+- The applicant must file Form Khor.1 with the local competent authority (Municipality, Sub-district Administrative Organization / SAO, BMA District Office, or Pattaya City) accompanied by site plans, architectural drawings, structural calculations, and MEP layouts.
+- Statutory review period: Competent authority must issue a decision within **45 calendar days** (extendable by up to two additional 45-day increments upon formal written justification).
+- Permit validity terms:
+  - Total floor area $\le 10,000\ m^2$: 1 year.
+  - Floor area between $10,000	ext{--}100,000\ m^2$: 2 years.
+  - Floor area $> 100,000\ m^2$: 3 years.
 
-### 2.3 การดัดแปลงอาคารที่ไม่ต้องขออนุญาต (ข้อยกเว้นตามกฎกระทรวง)
-  (1) การเปลี่ยนโครงสร้างของอาคารโดยใช้วัสดุขนาด จำนวน และชนิดเดียวกับของเดิม (เว้นแต่โครงสร้าง คสล., คอนกรีตอัดแรง หรือเหล็กโครงสร้างรูปพรรณ)
-  (2) การเปลี่ยนส่วนที่ไม่ใช่โครงสร้าง โดยใช้วัสดุที่ไม่เพิ่มน้ำหนักให้โครงสร้างเดิมเกินร้อยละ 10
-  (3) การลดหรือขยายเนื้อที่ของพื้นชั้นใดชั้นหนึ่งรวมกันไม่เกิน 5 ตารางเมตร โดยไม่ลดหรือเพิ่มเสา/คาน
-  (4) การลดหรือขยายเนื้อที่หลังคารวมกันไม่เกิน 5 ตารางเมตร โดยไม่ลดหรือเพิ่มเสา/คาน
+### 2.2 Direct Notice Procedure (Section 39 bis)
+- Owners may commence construction immediately upon receipt of an official notice acknowledgment certificate without awaiting a formal permit, provided all architectural plans and structural calculations are endorsed by legally licensed Thai professional architects and civil engineers.
 
----
-
-## 3. ข้อกำหนดระยะร่น แนวร่น และที่ว่างภายนอกอาคาร [S-004: กฎกระทรวง ฉบับที่ 55]
-
-### 3.1 ระยะร่นจากถนนและทางสาธารณะ (ข้อ 41)
-  - **ถนนสาธารณะกว้างน้อยกว่า 10.00 เมตร:**
-    - อาคารสูงเกิน 2 ชั้น หรือสูงเกิน 8.00 เมตร ต้องร่นแนวอาคารห่างจาก **กึ่งกลางถนนสาธารณะ** ไม่น้อยกว่า **6.00 เมตร**
-  - **ถนนสาธารณะกว้างตั้งแต่ 10.00 เมตร แต่น้อยกว่า 20.00 เมตร:**
-    - ต้องร่นแนวอาคารห่างจาก **เขตถนนสาธารณะ** ไม่น้อยกว่า **1.00 เมตร**
-  - **ถนนสาธารณะกว้างตั้งแต่ 20.00 เมตรขึ้นไป:**
-    - ต้องร่นแนวอาคารห่างจาก **เขตถนนสาธารณะ** ไม่น้อยกว่า **2.00 เมตร**
-
-### 3.2 ระยะร่นจากแนวเขตที่ดินข้างเคียง (ข้อ 50)
-  - **อาคารความสูงไม่เกิน 9.00 เมตร:**
-    - ผนังด้านที่มีช่องเปิด ประตู หน้าต่าง ระเบียง หรือช่องแสง: ต้องร่นห่างจากเขตที่ดินไม่น้อยกว่า **2.00 เมตร**
-    - ผนังทึบ (ไม่มีช่องเปิด): ต้องร่นห่างจากเขตที่ดินไม่น้อยกว่า **0.50 เมตร**
-    - สร้างชิดเขตที่ดิน (ระยะ 0.00 เมตร): ทำได้เฉพาะผนังทึบ สูงไม่เกิน 15.00 เมตร และต้องได้รับความยินยอมเป็นหนังสือจากเจ้าของที่ดินข้างเคียง
-  - **อาคารความสูงเกิน 9.00 เมตร แต่ไม่เกิน 23.00 เมตร:**
-    - ผนังด้านที่มีช่องเปิด ประตู หน้าต่าง ระเบียง: ต้องร่นห่างจากเขตที่ดินไม่น้อยกว่า **3.00 เมตร**
-    - ผนังทึบ: ต้องร่นห่างจากเขตที่ดินไม่น้อยกว่า **0.50 เมตร**
-
-### 3.3 ระยะร่นจากแหล่งน้ำสาธารณะ (ข้อ 42)
-  - แหล่งน้ำสาธารณะกว้างน้อยกว่า 10.00 เมตร: ร่นแนวอาคารไม่น้อยกว่า **3.00 เมตร**
-  - แหล่งน้ำสาธารณะกว้างตั้งแต่ 10.00 เมตรขึ้นไป: ร่นแนวอาคารไม่น้อยกว่า **6.00 เมตร**
-  - แหล่งน้ำขนาดใหญ่ (แม่น้ำ ทะเล ทะเลสาบ บึงขนาดใหญ่): ร่นแนวอาคารไม่น้อยกว่า **12.00 เมตร**
-
-### 3.4 ที่ว่างภายนอกอาคารตามประเภทอาคาร (ข้อ 33 - 36)
-  - **บ้านเดี่ยว (อาคารอยู่อาศัย):** ต้องมีที่ว่างเปิดโล่งรอบอาคารไม่น้อยกว่า **ร้อยละ 30** ของพื้นที่ดิน
-  - **ตึกแถว / ห้องแถว:** ต้องมีที่ว่างด้านหลังอาคารกว้างไม่น้อยกว่า **3.00 เมตร** ตลอดแนว และห้ามสร้างสิ่งปกคลุม
-  - **อาคารพาณิชย์ / โรงงาน / สำนักงาน:** ต้องมีที่ว่างไม่น้อยกว่า **ร้อยละ 10 ถึง 20** ของพื้นที่ดิน
+### 2.3 Statutory Exemptions from Alteration Permits
+The following minor modifications are legally exempt from requiring formal building permits:
+1. Replacement of structural components using identical materials, dimensions, and specifications (excluding reinforced concrete, prestressed concrete, and structural steel).
+2. Non-structural modifications that do not increase cumulative structural dead load by more than **10%**.
+3. Expansion or reduction of any individual floor level area by no more than **5.00 square meters**, without adding or removing columns or beams.
+4. Expansion or reduction of roof surface area by no more than **5.00 square meters**, without modifying primary columns or girders.
 
 ---
 
-## 4. ข้อกำหนดความสูง สัดส่วน และมิติภายในอาคาร [S-004]
-  - **ความสูงของห้องพักอาศัย:** พื้นถึงเพดานไม่น้อยกว่า **2.60 เมตร** (ห้องน้ำ/ส้วม ไม่น้อยกว่า **2.00 เมตร**)
-  - **ช่องแสงและการระบายอากาศ:** ช่องเปิดสู่ภายนอกรวมกันไม่น้อยกว่า **ร้อยละ 10** ของพื้นที่ห้อง
-  - **บันไดบ้านพักอาศัย:** กว้างสุทธิไม่น้อยกว่า **0.90 เมตร**, ลูกตั้งสูงไม่เกิน **20 เซนติเมตร**, ลูกนอนกว้างไม่น้อยกว่า **22 เซนติเมตร**
-  - **บันไดอาคารสาธารณะ:** กว้างสุทธิไม่น้อยกว่า **1.50 เมตร**, ลูกตั้งสูงไม่เกิน **18 เซนติเมตร**, ลูกนอนกว้างไม่น้อยกว่า **25 เซนติเมตร**
-  - บันไดสูงเกิน 3.00 เมตร ต้องมีชานพักทุกระยะ 3.00 เมตร
+## 3. Prescriptive Setbacks, Property Clearances, and Open Spaces [S-004: Ministerial Regulation No. 55]
+
+### 3.1 Statutory Setbacks from Public Roads (Clause 41)
+- **Public Roads with Width $< 10.00\ m$:**
+  - Buildings exceeding 2 stories or exceeding $8.00\ m$ in height must be set back at least **6.00 meters from the centerline of the public road**.
+- **Public Roads with Width between $10.00	ext{--}20.00\ m$:**
+  - The building footprint must be set back at least **1.00 meter from the public road right-of-way boundary**.
+- **Public Roads with Width $\ge 20.00\ m$:**
+  - The building footprint must be set back at least **2.00 meters from the public road right-of-way boundary**.
+
+### 3.2 Property Boundary Setbacks and Opening Controls (Clause 50)
+- **Building Height $\le 9.00\ m$:**
+  - Walls with window openings, glazed panels, doors, balconies, or open terraces: Minimum setback of **2.00 meters** from parcel boundary.
+  - Solid blind walls (zero openings): Minimum setback of **0.50 meter** from parcel boundary.
+  - Zero-boundary construction (0.00m setback): Permitted only with solid blind walls up to $15.00\ m$ in height, requiring prior formal written consent from the adjacent property owner.
+- **Building Height between $9.00	ext{--}23.00\ m$:**
+  - Walls with window openings, doors, balconies, or terraces: Minimum setback of **3.00 meters** from parcel boundary.
+  - Solid blind walls: Minimum setback of **0.50 meter** from parcel boundary.
+
+### 3.3 Setbacks from Public Bodies of Water (Clause 42)
+- Public water bodies with width $< 10.00\ m$: Minimum building setback of **3.00 meters**.
+- Public water bodies with width $\ge 10.00\ m$: Minimum building setback of **6.00 meters**.
+- Major waterways, rivers, lakes, or coastal shorelines: Minimum building setback of **12.00 meters**.
+
+### 3.4 Mandatory Open Space Ratios (OSR) by Occupancy (Clauses 33–36)
+- **Single-Family Detached Residences:** Uncovered open space must equal at least **30% of the total land parcel area**.
+- **Commercial Shophouses / Row Houses:** Minimum rear open space width of **3.00 meters** spanning the entire rear property line with zero overhead obstructions. Maximum contiguous block length of 10 units or 40.00 meters, requiring an intervening clear fire passageway of at least **4.00 meters**.
+- **Commercial, Industrial, and Office Occupancies:** Uncovered open space must equal at least **10% to 20% of the total land parcel area**.
 
 ---
 
-## 5. อาคารสูงและอาคารขนาดใหญ่พิเศษ [S-005: กฎกระทรวง ฉบับที่ 33]
-  - **นิยาม:** อาคารสูง คือ อาคารสูงตั้งแต่ **23.00 เมตร** ขึ้นไป / อาคารขนาดใหญ่พิเศษ คือ พื้นที่รวมทุกชั้นตั้งแต่ **10,000 ตารางเมตร** ขึ้นไป
-  - **ถนนรอบอาคาร:** ต้องมีถนนผิวจราจรแข็งแรงกว้างไม่น้อยกว่า **6.00 เมตร** รอบอาคาร เพื่อให้รถดับเพลิงวิ่งสวนทางและเข้าถึงตัวอาคารได้ทุกด้าน
-  - **บันไดหนีไฟ:** ต้องมีอย่างน้อย 2 แห่ง ห่างกันไม่เกิน 60 เมตร ผนังทนไฟ 2 ชั่วโมง บันไดภายในต้องมีระบบอัดอากาศ (Pressurized Stairwell)
-  - **ลิฟต์ดับเพลิง:** ต้องจัดให้มีลิฟต์ดับเพลิงอย่างน้อย 1 ชุด มีห้องโถงลิฟต์ทนไฟและประตูปิดเปิดอัตโนมัติ
-  - **ระบบดับเพลิงอัตโนมัติ:** ต้องติดตั้งระบบสปริงเกลอร์ (Automatic Sprinkler System) ครอบคลุมพื้นที่ทุกชั้น
+## 4. Internal Volumetric Geometries and Egress Dimensions [S-004]
+- **Habitable Rooms:** Clear floor-to-ceiling height must be at least **2.60 meters** (bathrooms/toilets minimum **2.00 meters**).
+- **Natural Ventilation & Daylighting:** Total openable window area must be at least **10% of the net floor area**.
+- **Residential Staircases:** Clear width $\ge 0.90\ m$; maximum riser height $20\ cm$; minimum tread run $22\ cm$.
+- **Public / Commercial Staircases:** Clear width $\ge 1.50\ m$; maximum riser height $18\ cm$; minimum tread run $25\ cm$.
+- Continuous vertical staircase rise exceeding $3.00\ m$ requires intermediate landings with a depth equal to the stair width.
+
+---
+
+## 5. High-Rise and Extra-Large Building Mandates [S-005: Ministerial Regulation No. 33]
+- **Statutory Definitions:**
+  - **High-Rise Building:** Height $\ge 23.00\ m$ (measured from finished ground grade to roof slab).
+  - **Extra-Large Building:** Total combined gross floor area across all levels $\ge 10,000\ m^2$.
+- **Perimeter Fire Apparatus Access:** Continuous, unencumbered fire truck roadway with a minimum clear width of **6.00 meters** encompassing the entire perimeter of the building footprint.
+- **Fire Evacuation Stairways:** Minimum of two independent enclosed fire stairways; maximum direct travel distance to any fire stair cannot exceed **60.00 meters**; stair enclosure fire rating must be $\ge 2	ext{ hours}$; interior stair shafts must feature mechanical stair pressurization.
+- **Dedicated Firefighting Elevators:** At least one designated fire service access elevator served by a fire-rated lobby enclosure.
+- **Automatic Fire Suppression:** Mandatory complete automatic fire sprinkler system coverage across every floor level.

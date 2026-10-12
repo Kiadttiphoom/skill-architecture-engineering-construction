@@ -1,19 +1,19 @@
 ---
 name: construction-review
-status: VERIFIED — อ้างอิง พ.ร.บ. ควบคุมอาคาร มาตรา 40-42 (อำนาจสั่งระงับ/รื้อถอน), กฎกระทรวงผู้ตรวจสอบอาคาร 2548, และมาตรฐาน QC งานก่อสร้าง (S-001, S-002, S-003)
+status: VERIFIED — Grounded in Building Control Act Enforcement, Inspector Rules 2548, and QC Protocols (S-001, S-002, S-003).
 ---
 
-# ขั้นตอนการตรวจแบบและตรวจรับงานก่อสร้าง (Construction Review Workflow)
+# Construction Quality Review & Compliance Workflow
 
-## รายการตรวจสอบการตรวจแบบ (Pre-construction Plan Review)
-  - [ ] ระยะร่นจากถนนสาธารณะ แหล่งน้ำ และเขตที่ดินข้างเคียง ถูกต้องตามกฎกระทรวง 55
-  - [ ] สัดส่วนที่ว่างเปิดโล่งรอบอาคาร (OSR) เป็นไปตามกฎหมาย
-  - [ ] รายการคำนวณโครงสร้างใช้ค่าน้ำหนักบรรทุกจรและแรงลมตามกฎกระทรวง 6
-  - [ ] มีรายละเอียดเหล็กเสริมต้านแผ่นดินไหวในพื้นที่เฝ้าระวัง
-  - [ ] มีช่องเปิดระบายอากาศ แสงสว่าง และระยะบันไดถูกต้อง
-  - [ ] แบบระบบไฟฟ้า ประปา บำบัดน้ำเสีย บ่อดักไขมัน สอดคล้องกับมาตรฐานปี 2566
+## Pre-Construction Plan Review Checklist
+- [ ] Statutory setbacks from public roads, water bodies, and property lines comply with Ministerial Reg 55.
+- [ ] Uncovered open space ratio (OSR) satisfies occupancy requirements.
+- [ ] Structural calculation loads comply with Ministerial Reg 6 live and wind loads.
+- [ ] Seismic ductile reinforcement details are provided for structures in Zones 1, 2, and 3.
+- [ ] Restroom counts, corridor widths, and staircase riser/tread geometries comply with legal minimums.
+- [ ] Electrical, plumbing, and mandatory grease traps comply with national standards.
 
-## รายการตรวจสอบหน้างานจริง (Site Inspection Checklist)
-  - [ ] ตำแหน่งผังอาคารจริงตรงตามใบอนุญาต ไม่ล้ำแนวร่น
-  - [ ] ผลการทดสอบกำลังอัดคอนกรีต (Slump test & Cylinder strength)
-  - [ ] การตรวจระยะหนุนลูกปูนและเหล็กปลอกเสา-คานก่อนเทคอนกรีต
+## Site Inspection Quality Protocol
+- [ ] Physical building layout verifies zero encroachment into statutory setback corridors.
+- [ ] Ready-mixed concrete delivery slump tests and cylinder test specimens meet design $f'_c$.
+- [ ] Rebar clearances, bar chairs, and transverse stirrup hooks ($135^\circ$) inspected prior to casting.

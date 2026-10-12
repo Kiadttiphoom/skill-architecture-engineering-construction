@@ -1,36 +1,34 @@
 ---
 name: reinforced-concrete
-status: VERIFIED — อ้างอิงกฎกระทรวง ฉบับที่ 6 (พ.ศ. 2527), กฎกระทรวงแผ่นดินไหว พ.ศ. 2564, และแบบโครงสร้าง คสล. มาตรฐาน DPT Plan 406/412 (S-006, S-007, S-021)
+status: VERIFIED — Grounded in Ministerial Regulation No. 6 (B.E. 2527), Seismic Regulation B.E. 2564, and DPT Standard Structural Drawings (S-006, S-007, S-021).
 ---
 
-# คอนกรีตเสริมเหล็ก (Reinforced Concrete)
+# Reinforced Concrete Structural Design
 
-## 1. หน่วยแรงใช้งานและกำลังวัสดุตามกฎหมายไทย [S-006: กฎกระทรวง ฉบับที่ 6]
-  - **กำลังอัดของคอนกรีต ($f'_c$):**
-    - สำหรับวิธีหน่วยแรงใช้งาน (WSD): หน่วยแรงอัดที่ยอมให้ไม่เกิน $0.375 f'_c$ (คอนกรีตทดสอบด้วยก้อนตัวอย่างทรงกระบอก 15x30 ซม. อายุ 28 วัน) หรือไม่เกิน $0.333 f'_c$ (สำหรับก้อนลูกบาศก์ 15x15x15 ซม.)
-    - กำลังคอนกรีตมาตรฐานงานก่อสร้างไทย:
-      - คอนกรีตหยาบรองก้นหลุม: $100–140\ kg/cm^2$
-      - ฐานราก เสา คาน พื้น คสล. ทั่วไป: ไม่น้อยกว่า $180–240\ kg/cm^2$ (ทรงกระบอก) หรือ $210–280\ kg/cm^2$ (ลูกบาศก์)
-      - โครงสร้างเสาเข็มและคอนกรีตอัดแรง: ไม่น้อยกว่า $280–350\ kg/cm^2$
-  - **หน่วยแรงดึงที่ยอมให้ของเหล็กเสริม ($f_s$):**
-    - เหล็กเส้นกลมผิวเรียบ (Round Bars - RB) ชั้นคุณภาพ SR24: ไม่เกิน **1,200 $kg/cm^2$**
-    - เหล็กข้ออ้อย (Deformed Bars - DB) ชั้นคุณภาพ SD30: ไม่เกิน **1,500 $kg/cm^2$**
-    - เหล็กข้ออ้อย ชั้นคุณภาพ SD40: ไม่เกิน **1,700 $kg/cm^2$**
-    - เหล็กข้ออ้อย ชั้นคุณภาพ SD50: ไม่เกิน **2,000 $kg/cm^2$**
-
----
-
-## 2. ระยะหุ้มคอนกรีตเพื่อป้องกันสนิมและการทนไฟ (Concrete Covering) [S-006, S-016]
-  - คอนกรีตที่หล่อติดกับดินและสัมผัสดินตลอดเวลา (เช่น ฐานราก ตอม่อ): ไม่น้อยกว่า **5.0 ถึง 7.5 เซนติเมตร**
-  - คอนกรีตที่สัมผัสอากาศหรือดินภายนอก (เช่น คานคอดิน เสาภายนอก): ไม่น้อยกว่า **4.0 ถึง 5.0 เซนติเมตร**
-  - เสาและคานภายในอาคาร: ไม่น้อยกว่า **3.0 ถึง 4.0 เซนติเมตร**
-  - พื้นและผนังภายในอาคาร: ไม่น้อยกว่า **2.0 ถึง 2.5 เซนติเมตร**
+## 1. Material Strengths & Working Stresses [S-006: Ministerial Regulation No. 6]
+- **Compressive Strength of Concrete ($f'_c$):**
+  - Working Stress Design (WSD): Allowable extreme fiber compressive stress $f_c \le 0.375 f'_c$ (standard 15x30 cm cylinder at 28 days) or $0.333 f'_c$ (15x15x15 cm cube).
+  - Lean blinding concrete: $100	ext{--}140\ kg/cm^2$.
+  - Footings, columns, beams, slabs: Minimum $180	ext{--}240\ kg/cm^2$ (cylinder) or $210	ext{--}280\ kg/cm^2$ (cube).
+  - Prestressed components & driven piles: Minimum $280	ext{--}350\ kg/cm^2$.
+- **Allowable Tensile Stresses in Reinforcing Steel ($f_s$):**
+  - Round Plain Bars (SR24, TIS 20): Maximum **$1,200\ kg/cm^2$**.
+  - Deformed Bars (SD30, TIS 24): Maximum **$1,500\ kg/cm^2$**.
+  - Deformed Bars (SD40, TIS 24): Maximum **$1,700\ kg/cm^2$**.
+  - Deformed Bars (SD50, TIS 24): Maximum **$2,000\ kg/cm^2$**.
 
 ---
 
-## 3. รายละเอียดการเสริมเหล็กต้านทานแผ่นดินไหว (Ductile Detailing) [S-007, S-021: DPT Plan 406/412]
-  - **ข้อต่อคานและเสา (Beam-Column Joints):**
-    - ห้ามต่อทาบเหล็กยืนในบริเวณข้อต่อและระยะ $2d$ จากขอบเสา (Plastic Hinge Zone)
-    - ต้องเสริมเหล็กปลอกเสาแบบปิด (Closed Ties) ดัดงอขอ 135 องศา ฝังปลายยาวไม่น้อยกว่า $6d_b$ หรือ 75 มม.
-    - ระยะเรียงเหล็กปลอกในโซนวิกฤต (ระยะ $h$ จากหัว-ท้ายเสา): ไม่เกิน $d/4$ หรือ 100 มม.
-  - **เหล็กปลอกคาน:** ตัวแรกห่างจากผิวเสาไม่เกิน 50 มม. และระยะเรียงในโซนวิกฤตไม่เกิน $d/4$ หรือ 100 มม.
+## 2. Concrete Clear Cover Requirements [S-006, S-016]
+- Concrete cast permanently against earth (footings, pile caps): Minimum **$5.0	ext{ to }7.5\ cm$**.
+- Concrete exposed to earth or outdoor weather (grade beams, exterior columns): Minimum **$4.0	ext{ to }5.0\ cm$**.
+- Interior structural beams and columns: Minimum **$3.0	ext{ to }4.0\ cm$**.
+- Interior floor slabs and partition walls: Minimum **$2.0	ext{ to }2.5\ cm$**.
+
+---
+
+## 3. Seismic Ductile Detailing Provisions [S-007, S-021: DPT Plan 406/412]
+- **Beam-Column Connections:**
+  - Lap splices in longitudinal column reinforcement are prohibited within the beam-column joint and within $2d$ from the column face (plastic hinge zone).
+  - Closed hoop ties with $135^\circ$ seismic hooks extending at least $6d_b$ or $75\ mm$.
+  - Maximum tie spacing within end confinement zones: Not to exceed $d/4$ or $100\ mm$.

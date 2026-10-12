@@ -1,29 +1,29 @@
 ---
 name: steel-structures
-status: VERIFIED — อ้างอิงประกาศกระทรวงมหาดไทย เรื่อง มาตรฐานการออกแบบโครงสร้างเหล็ก พ.ศ. 2567, ประกาศ มท. คุณสมบัติการทนไฟ 2567, และแบบบ้านลอยน้ำ DPT Plan 361 (S-015, S-016, S-020)
+status: VERIFIED — Grounded in MOI Structural Steel Standard B.E. 2567, MOI Fire Resistance Notification B.E. 2567, and DPT Plan 361 (S-015, S-016, S-020).
 ---
 
-# โครงสร้างเหล็กและโลหะ (Steel Structures)
+# Structural Steel & Metal Framing
 
-## 1. มาตรฐานการออกแบบโครงสร้างเหล็กไทย พ.ศ. 2567 [S-015]
-  - รองรับ 2 วิธีการคำนวณมาตรฐานสากล:
-    (1) **วิธีตัวคูณความต้านทานและน้ำหนักบรรทุก (LRFD):** โหลดแฟกเตอร์ $1.2D + 1.6L + 0.5(W 	ext{ or } E)$
-    (2) **วิธีหน่วยแรงที่ยอมให้ (ASD):** โหลดแฟกเตอร์ $D + L$ หรือ $D + 0.75L + 0.75(W 	ext{ or } E)$
-  - **คุณสมบัติวัสดุเหล็กรูปพรรณ (ตาม มอก. 1227 / 107):**
-    - ชั้นคุณภาพ SS400 / SM400: กำลังคราก ($F_y$) ขั้นต่ำ $2,400\ kg/cm^2$ (235–245 MPa), กำลังดึงประลัย ($F_u$) $4,000–5,100\ kg/cm^2$
-    - ชั้นคุณภาพ SS490 / SM490: กำลังคราก ($F_y$) ขั้นต่ำ $3,200\ kg/cm^2$ (315–325 MPa)
-    - โมดูลัสยืดหยุ่นของเหล็ก ($E$): $2.04 	imes 10^6\ kg/cm^2$ (200,000 MPa)
-
----
-
-## 2. การป้องกันไฟและการทนไฟของโครงสร้างเหล็ก [S-016]
-  - เหล็กรูปพรรณสูญเสียกำลังรับน้ำหนักลงกว่าร้อยละ 50 เมื่ออุณหภูมิสูงเกิน 500 องศาเซลเซียส
-  - เสาและคานเหล็กในอาคารสูง อาคารขนาดใหญ่พิเศษ หรืออาคารสาธารณะ ต้องหุ้มด้วยวัสดุทนไฟ (Fireproofing) เช่น:
-    - คอนกรีตหุ้มหนาไม่น้อยกว่า 5.0 ซม. (ทนไฟ 3 ชั่วโมง)
-    - แผ่นยิปซัมกันไฟหลายชั้น
-    - การพ่นสีพองตัวกันไฟ (Intumescent Paint) ให้ได้อัตราการทนไฟ 1–3 ชั่วโมงตามที่กฎหมายกำหนด
+## 1. Standard Design Methodologies [S-015: MOI Notification B.E. 2567]
+- Compliant with AISC 360 and DPT Standard 1201:
+  1. **Load and Resistance Factor Design (LRFD):** Primary combination $1.2D + 1.6L + 0.5(W 	ext{ or } E)$.
+  2. **Allowable Stress Design (ASD):** Primary combination $D + L$ or $D + 0.75L + 0.75(W 	ext{ or } E)$.
+- Certified material specifications under TIS 1227 and TIS 107:
+  - Grade SS400 / SM400: Minimum yield point $F_y \ge 2,400\ kg/cm^2$ (235–245 MPa); tensile strength $F_u \ge 4,000	ext{--}5,100\ kg/cm^2$.
+  - Grade SS490 / SM490: Minimum yield point $F_y \ge 3,200\ kg/cm^2$ (315–325 MPa).
+  - Modulus of elasticity ($E$): $2.04 	imes 10^6\ kg/cm^2$ (200,000 MPa).
 
 ---
 
-## 3. การป้องกันสนิมและโครงสร้างสัมผัสน้ำ (นวัตกรรมบ้านลอยน้ำ DPT Plan 361) [S-020]
-  - โครงสร้างเหล็กที่อยู่ในพื้นที่ชื้นแฉะหรือสัมผัสน้ำ ต้องชุบสังกะสีแบบจุ่มร้อน (Hot-Dip Galvanized) ความหนาชั้นเคลือบไม่น้อยกว่า 500–600 $g/m^2$ (หนาประมาณ 70–85 ไมครอน) หรือใช้สีอีพ็อกซี่เกรดทางทะเล (Marine Epoxy Coating)
+## 2. Structural Fire Resistance Protection [S-016]
+- Unprotected structural steel elements lose over 50% of yield strength above $500^\circ C$.
+- Mandatory fireproofing to satisfy 1h to 3h statutory ratings:
+  - Solid concrete encasement (5.0 cm thickness for 3h rating).
+  - Multiple layers of Type X fire-resistant gypsum board.
+  - Certified intumescent coating systems.
+
+---
+
+## 3. Corrosion Control & Marine Applications [S-020]
+- Hot-dip galvanizing with a coating mass $\ge 500	ext{--}600\ g/m^2$ (thickness 70–85 microns) for high-humidity or flood-prone amphibious foundations.

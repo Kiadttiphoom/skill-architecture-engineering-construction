@@ -1,25 +1,25 @@
 ---
 name: commercial-building-design
-status: VERIFIED — อ้างอิงกฎกระทรวง ฉบับที่ 7 (ที่จอดรถ), กฎกระทรวง ฉบับที่ 55 (ตึกแถว/อาคารพาณิชย์), พ.ร.บ. โรงงาน 2535, และแบบแปลนตึกแถว DPT Plan 362/369-371 (S-004, S-010, S-012, S-019)
+status: VERIFIED — Grounded in Ministerial Regulations No. 7, 55, Factory Act 2535, and DPT Standard Shophouse Plans (S-004, S-010, S-012, S-019).
 ---
 
-# ขั้นตอนการออกแบบอาคารพาณิชย์และตึกแถว (Commercial Building Design Workflow)
+# Commercial Building & Shophouse Design Workflow
 
-## ข้อมูลนำเข้าที่ต้องตรวจสอบ (Inputs Checklist)
-  - ประเภทการพาณิชย์: ค้าขาย, ร้านอาหาร/คาเฟ่, ร้านสะดวกซัก, ออฟฟิศ, หรือคลังสินค้า
-  - ความกว้างถนนสาธารณะและระยะร่นหน้าอาคาร
-  - จำนวนที่จอดรถยนต์ที่กฎหมายบังคับตามพื้นที่ใช้สอย
+## Required Inputs Checklist
+- Commercial occupancy classification (Retail, Restaurant/Cafe, Laundromat, Office, Warehouse).
+- Road width, parcel frontage, and municipal fire zones.
+- Required parking stall count based on commercial gross floor area.
 
-## ลำดับการออกแบบและตัดสินใจ (Design Steps)
-1. **จัดผังและระยะร่นตึกแถว/อาคารพาณิชย์ [S-004, S-019]:**
-   - ตึกแถวสร้างติดต่อกันไม่เกิน 10 คูหา หรือยาวรวมไม่เกิน 40.00 ม. ต้องมีที่ว่างระหว่างแถวกว้าง $\ge 4.00$ ม.
-   - ด้านหลังอาคารต้องมีที่ว่างห่างจากแนวเขตที่ดิน $\ge 3.00$ ม.
-   - มีทางเดินเท้ามีหลังคาคลุม (หง่อคาขี่) กว้าง $\ge 1.50$ ม.
-2. **คำนวณที่จอดรถยนต์ [S-010]:**
-   - ร้านค้า/สำนักงาน: 1 คัน ต่อพื้นที่ 60 ตร.ม. (ขนาดช่องจอด 2.40 x 5.00 ม.)
-3. **ระบบความปลอดภัยและการทนไฟ [S-016]:**
-   - ผนังร่วมระหว่างคูหาต้องเป็นผนังทึบก่อด้วยวัสดุทนไฟ $\ge 2$ ชั่วโมง ก่อสูงชนท้องหลังคา
-   - ติดตั้งเครื่องดับเพลิงมือถืออย่างน้อย 1 ถัง ต่อพื้นที่ 1,000 ตร.ม.
-4. **ระบบสุขาภิบาลเฉพาะกิจการ [S-009]:**
-   - ร้านอาหาร/คาเฟ่: บังคับติดตั้งบ่อดักไขมันขนาดเหมาะสมก่อนระบายสู่ท่อสาธารณะ
-   - ร้านสะดวกซัก: คำนวณบ่อพักน้ำทิ้งและอัตราการระบายน้ำไม่ให้ท่วมเอ่อ
+## Step-by-Step Engineering Execution
+1. **Block Limits & Separation Clearances [S-004, S-019]:**
+   - Shophouse blocks: Maximum 10 contiguous units or 40.00 meters before providing a 4.00m open fire passageway.
+   - Rear yard open space: Minimum unbroken setback of $\ge 3.00\ meters$.
+   - Front arcade: Covered pedestrian walkway (Ngo-Ka-Ki) with clear width $\ge 1.50\ meters$.
+2. **Vehicle Parking Sizing [S-010]:**
+   - Retail / Commercial: 1 parking space per 60 $m^2$ of usable floor area (stall dimensions 2.40 x 5.00m).
+3. **Fire Compartmentation [S-016]:**
+   - Common party walls must be 2-hour fire-rated non-combustible masonry extending to the roof deck.
+   - Provide portable fire extinguishers: at least 1 unit per $1,000\ m^2$ or 45m travel distance.
+4. **Specialized Utility Services [S-009]:**
+   - Restaurants/Cafes: Mandatory grease interceptor sizing prior to discharge.
+   - Laundromats: Sump pit and high-volume wastewater retention sizing.

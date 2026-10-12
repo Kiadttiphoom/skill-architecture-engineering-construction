@@ -1,23 +1,22 @@
 ---
 name: construction-methods
-status: VERIFIED — อ้างอิงมาตรฐานวิศวกรรมการก่อสร้าง กฎกระทรวง ฉบับที่ 4 (การควบคุมงานก่อสร้าง), ประกาศ มท. การออกแบบเหล็ก 2567, และขั้นตอนตรวจรับงาน (S-002, S-003, S-015, S-021)
+status: VERIFIED — Grounded in the Building Control Act, Construction QC Protocols, and DPT Standard Practices (S-002, S-003, S-015, S-021).
 ---
 
-# วิธีการและลำดับการก่อสร้าง (Construction Methods & Sequencing)
+# Construction Methods & Sequencing
 
-## 1. ลำดับขั้นตอนการก่อสร้างอาคารมาตรฐานไทย [S-002, S-021]
-  (1) **งานเตรียมการและสำรวจ:** วางผังอาคาร เช็คแนวร่นตามใบอนุญาต ขุดเปิดหน้าดิน
-  (2) **งานฐานรากและเสาเข็ม:** ตอก/เจาะเสาเข็ม ตัดหัวเข็ม หล่อตอม่อและคานคอดิน ถมดินบดอัด
-  (3) **งานโครงสร้างชั้น 1 ถึงชั้นหลังคา:** หล่อเสา คาน พื้น วางแผ่นพื้นสำเร็จรูป เท Topping
-  (4) **งานโครงหลังคาและมุงหลังคา:** ติดตั้งโครงหลังคาเหล็ก/คสล. มุงหลังคาเพื่อกันฝนให้พื้นที่ชั้นล่าง
-  (5) **งานก่อผนังและติดตั้งวงกบ:** ก่อผนังอิฐมอญ/อิฐมวลเบา หล่อเสาเอ็น-ทับหลังรอบช่องเปิด
-  (6) **งานเดินท่อระบบ (Rough-in MEP):** ฝังท่อร้อยสายไฟ ท่อประปา ท่อน้ำทิ้ง ก่อนฉาบปูน
-  (7) **งานฉาบปูนและงานสถาปัตยกรรม:** ฉาบปูน ปูกระเบื้อง ฝ้าเพดาน ติดตั้งสุขภัณฑ์ ประตู-หน้าต่าง
-  (8) **งานระบบสำเร็จและทดสอบ (Testing & Commissioning):** ทดสอบแรงดันน้ำ ทดสอบระบบไฟฟ้า เมกเกอร์เทสต์ ทดสอบระบบเตือนภัยเพลิงไหม้
+## 1. Standard Construction Sequencing Protocol
+1. **Substructure & Survey:** Site boundary verification, statutory setback alignment, excavation, dewatering.
+2. **Foundations & Deep Piling:** Driving/boring piles, pile cut-off, pile cap casting, grade tie beams, backfill compaction.
+3. **Superstructure RC Framing:** Columns, girders, suspended slabs, precast plank installation, structural topping.
+4. **Roof Framing & Weatherproofing:** Roof trusses, purlins, roof tile installation to shed rain before interior fitout.
+5. **Masonry Enclosures & Lintels:** Brickwork, RC lintels and stiffener posts around all door and window openings.
+6. **Rough-In MEP Utilities:** Electrical conduit embedment, plumbing pipe installation prior to plastering.
+7. **Architectural Finishes:** Plastering, tiling, ceiling suspension, door/window glazing, sanitaries.
+8. **Testing & Commissioning:** Hydrostatic plumbing pressure tests, electrical megger testing, fire alarm verification.
 
 ---
 
-## 2. จุดตรวจสำคัญด้านความปลอดภัยและการควบคุมงาน (Inspection Points)
-  - **การทดสอบเสาเข็ม:** ทดสอบความสมบูรณ์ของเสาเข็ม (Seismic/Sonic Integrity Test) และการทดสอบกำลังรับน้ำหนัก (Dynamic/Static Load Test)
-  - **การตรวจเหล็กเสริมก่อนเทคอนกรีต:** เช็คขนาด จำนวน ระยะทาบ ระยะหนุนลูกปูน (Covering) และเหล็กเสริมพิเศษรอบช่องเปิด
-  - **การถอดแบบหล่อคอนกรีต:** เสา/ข้างคานถอดได้หลัง 48 ชม., ท้องคาน/ท้องพื้นต้องค้ำยันไว้อย่างน้อย 14–21 วัน หรือจนกว่าคอนกรีตจะมีกำลังไม่น้อยกว่าร้อยละ 80 ของ $f'_c$
+## 2. Critical Quality Assurance (QA) Checkpoints
+- **Piling Integrity:** Sonic integrity testing and dynamic load testing.
+- **Formwork Stripping Schedules:** Column/beam vertical sides $\ge 48	ext{ hours}$; beam and slab soffit supports $\ge \mathbf{14	ext{ to }21	ext{ days}}$ (or compressive strength $\ge 80\% f'_c$).

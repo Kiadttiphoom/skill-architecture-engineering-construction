@@ -1,30 +1,24 @@
 ---
 name: site-planning
-status: VERIFIED — อ้างอิงกฎกระทรวง ฉบับที่ 55 (ระยะร่นและที่ว่าง), กฎกระทรวง ฉบับที่ 33 (ถนนรอบอาคารสูง), กฎกระทรวงผังเมืองรวมสงขลา 2556, และข้อบัญญัติ กทม. 2544 (S-004, S-005, S-017, S-018)
+status: VERIFIED — Grounded in Ministerial Regulations No. 33, 55, BMA Ordinance 2544, and City Planning Acts (S-004, S-005, S-017, S-018).
 ---
 
-# การวางผังที่ดินและสภาพแวดล้อม (Site Planning & Environmental Design)
+# Site Planning & Civil Site Engineering
 
-## 1. ข้อกำหนดระยะร่นจากแนวเขตถนนและที่ดินรอบอาคาร [S-004: กฎกระทรวง ฉบับที่ 55]
-  - **ถนนสาธารณะ:**
-    - กว้าง $< 10$ ม.: ร่น 6.00 ม. จากกึ่งกลางถนน
-    - กว้าง $10–20$ ม.: ร่น 1.00 ม. จากแนวเขตถนน
-    - กว้าง $\ge 20$ ม.: ร่น 2.00 ม. จากแนวเขตถนน
-  - **แนวเขตที่ดินข้างเคียง:**
-    - อาคารสูง $\le 9$ ม.: มีช่องเปิดร่น 2.00 ม. / ผนังทึบร่น 0.50 ม. (หรือ 0.00 ม. เมื่อมีหนังสือยินยอม)
-    - อาคารสูง $9–23$ ม.: มีช่องเปิดร่น 3.00 ม. / ผนังทึบร่น 0.50 ม.
-  - **แหล่งน้ำสาธารณะ:**
-    - กว้าง $< 10$ ม.: ร่น 3.00 ม. / กว้าง $\ge 10$ ม.: ร่น 6.00 ม. / แม่น้ำหรือทะเล: ร่น 12.00 ม.
+## 1. Statutory Boundary & Road Clearances [S-004: Ministerial Regulation No. 55]
+- Public roads: Road width $<10m$ requires a setback of 6.00m from the road centerline; road width $10	ext{--}20m$ requires 1.00m from boundary; road width $\ge 20m$ requires 2.00m.
+- Boundary clearances: Openings require 2.00m (height $\le 9m$) or 3.00m (height $9	ext{--}23m$); blind walls require 0.50m (or 0.00m with written consent).
+- Water bodies: Canals $<10m$ wide require 3.00m; canals $\ge 10m$ wide require 6.00m; major rivers/lakes require 12.00m.
 
 ---
 
-## 2. การเข้าถึงของรถดับเพลิงและการจราจร [S-005: กฎกระทรวง ฉบับที่ 33]
-  - อาคารสูงและอาคารขนาดใหญ่พิเศษ ต้องมีทางวิ่งของรถดับเพลิงผิวจราจรแข็งแรงกว้างไม่น้อยกว่า **6.00 เมตร** รอบอาคาร
-  - รัศมีวงเลี้ยวของรถดับเพลิงไม่น้อยกว่า **10.00–12.00 เมตร**
-  - ทางเข้า-ออกของยานพาหนะต้องห่างจากทางแยกสาธารณะไม่น้อยกว่า **20.00 เมตร** (หรือ 50.00 เมตรสำหรับอาคารขนาดใหญ่พิเศษ)
+## 2. Fire Fighting Apparatus Access Roads [S-005: Ministerial Regulation No. 33]
+- Continuous perimeter fire truck roadway with a minimum clear width of **6.00 meters** around high-rise structures.
+- Outside turning radius must be at least **10.00 to 12.00 meters**.
+- Site vehicular driveways must be located at least **20.00 meters** away from public road intersections (50.00m for extra-large buildings).
 
 ---
 
-## 3. สัดส่วนพื้นที่อาคารต่อพื้นที่ดิน (FAR, OSR) และข้อกำหนดผังเมือง [S-017, S-018]
-  - **อัตราส่วนพื้นที่อาคารรวมต่อพื้นที่ดิน (Floor Area Ratio - FAR):** กำหนดตามโซนสีผังเมืองรวม (เช่น เขตสีเหลือง FAR 1-2, เขตสีส้ม FAR 3-5, เขตสีแดง FAR 5-8)
-  - **อัตราส่วนที่ว่างต่อพื้นที่อาคารรวม (Open Space Ratio - OSR):** สัดส่วนพื้นที่ดินเปิดโล่งที่ต้องจัดให้มีเพื่อสุขอนามัยและระบายน้ำ
+## 3. Urban Planning Metrics: FAR & OSR [S-017, S-018]
+- Floor Area Ratio (FAR): Regulated by comprehensive municipal master plans (e.g., Low-density residential FAR 1–2; High-density commercial FAR 5–8).
+- Open Space Ratio (OSR): Minimum percentage of permeable or open land relative to gross building area.

@@ -1,41 +1,40 @@
 ---
 name: electrical-systems
-status: VERIFIED — อ้างอิงกฎกระทรวง ฉบับที่ 33, 39 (แก้ไขถึงฉบับที่ 63), ข้อบัญญัติ กทม. 2544, ประกาศกระทรวงพลังงาน BEC 2564, และประกาศ มท. การติดตั้ง AED 2564 (S-005, S-008, S-017, S-018)
+status: VERIFIED — Grounded in Ministerial Regulation No. 33, 39 (Amended to 63), BMA Ordinance 2544, Energy Code 2564, and MOI AED Notification 2564 (S-005, S-008, S-017, S-018).
 ---
 
-# ระบบไฟฟ้าอาคาร (Building Electrical Systems)
+# Building Electrical Systems & Power Engineering
 
-## 1. แหล่งจ่ายพลังงานไฟฟ้าสำรองฉุกเฉิน (Emergency Power Systems) [S-008: กฎกระทรวง ฉบับที่ 39]
-  - **อาคารที่บังคับต้องมีไฟฟ้าสำรอง:** อาคารสูง, อาคารขนาดใหญ่พิเศษ, อาคารชุมนุมคน, โรงพยาบาล, โรงแรม, สถานบริการ
-  - **เงื่อนไขเวลา:** เครื่องกำเนิดไฟฟ้าสำรอง (Emergency Generator) ต้องจ่ายไฟฟ้าทดแทนได้อัตโนมัติภายใน **20 วินาที** นับแต่ระบบไฟฟ้าปกติหยุดทำงาน
-  - **ระยะเวลาการทำงานขั้นต่ำ:** ต้องจ่ายโหลดได้อย่างต่อเนื่องไม่น้อยกว่า **2 ชั่วโมง**
-  - **โหลดฉุกเฉินที่ต้องจ่ายไฟฟ้า:**
-    (1) ไฟฟ้าแสงสว่างฉุกเฉินตามทางสัญจร โถง บันไดหนีไฟ
-    (2) ป้ายบอกทางหนีไฟ (Exit Signs)
-    (3) ลิฟต์ดับเพลิง (อย่างน้อย 1 ชุด)
-    (4) เครื่องสูบน้ำดับเพลิง (Fire Pump)
-    (5) ระบบแจ้งเหตุเพลิงไหม้ (Fire Alarm Control Panel)
-    (6) ระบบระบายควันและพัดลมอัดอากาศบันไดหนีไฟ
-
----
-
-## 2. ระบบแสงสว่างและการอนุรักษ์พลังงาน (Lighting & Energy Efficiency) [S-017: ประกาศ ก.พลังงาน 2564]
-ตามเกณฑ์ Building Energy Code (BEC) ค่ากำลังไฟฟ้าส่องสว่างสูงสุด (Lighting Power Density - LPD) ในอาคารควบคุม:
-  - สำนักงาน: ไม่เกิน 11 วัตต์/ตารางเมตร
-  - โรงแรม / คอนโดมิเนียม: ไม่เกิน 10 วัตต์/ตารางเมตร
-  - โรงพยาบาล: ไม่เกิน 12 วัตต์/ตารางเมตร
-  - ศูนย์การค้า / ห้างสรรพสินค้า: ไม่เกิน 16 วัตต์/ตารางเมตร
-  - โรงเรียน / สถานศึกษา: ไม่เกิน 11 วัตต์/ตารางเมตร
-  *(แนะนำให้ใช้หลอด LED ประสิทธิภาพสูงเพื่อผ่านเกณฑ์มาตรฐานพลังงาน)*
+## 1. Emergency Standby Generator Systems [S-008: Ministerial Regulation No. 39]
+- **Mandatory Facilities:** High-rise structures, extra-large buildings, public assembly centers, hospitals, and hotels.
+- **Automatic Transfer Performance:** The standby generator system must automatically ignite, synchronize, and transfer critical power within **20 seconds** following utility supply failure.
+- **Minimum Autonomous Runtime:** On-site diesel fuel reserves must sustain full critical emergency loads for at least **2 hours**.
+- **Mandatory Life Safety Loads:**
+  1. Emergency egress lighting and exit signs.
+  2. Designated firefighting elevators.
+  3. Electric fire water pumps.
+  4. Fire Alarm Control Panels (FACP) and voice evacuation systems.
+  5. Stairwell pressurization and smoke exhaust fans.
 
 ---
 
-## 3. ความปลอดภัยทางไฟฟ้าและการต่อลงดิน (Earthing & Safety) [S-008, วสท.]
-  - ระบบสายไฟฟ้าและอุปกรณ์ป้องกันกระแสเกิน (Circuit Breakers) ต้องได้มาตรฐาน มอก. และการไฟฟ้านครหลวง/ภูมิภาค (MEA/PEA)
-  - ทุกเต้ารับไฟฟ้าต้องมีสายดิน (Grounding) และในพื้นที่เปียกชื้น (ห้องน้ำ ห้องครัว ระเบียงภายนอก) ต้องติดตั้งเครื่องตัดไฟรั่ว (Residual Current Device - RCD / GFCI) พิกัดตัดกระแสรั่วไม่เกิน 30 mA ภายใน 0.04 วินาที
-  - ระบบป้องกันฟ้าผ่า (Lightning Protection): บังคับติดตั้งสำหรับอาคารสูงและอาคารที่มีจุดเสี่ยงตามมาตรฐาน NFPA 780 หรือ IEC 62305
+## 2. Energy Efficiency & Lighting Power Density (LPD) [S-017: Building Energy Code]
+Prescriptive maximum Lighting Power Density (LPD) under national energy standards:
+- Office Buildings: Maximum **$11.0\ W/m^2$**.
+- Hotels & Condominiums: Maximum **$10.0\ W/m^2$**.
+- Hospitals & Healthcare: Maximum **$12.0\ W/m^2$**.
+- Retail Centers & Department Stores: Maximum **$16.0\ W/m^2$**.
+- Educational Institutions: Maximum **$11.0\ W/m^2$**.
 
 ---
 
-## 4. อุปกรณ์ช่วยชีวิตฉุกเฉิน AED ในอาคารสาธารณะ [ประกาศ มท. 2564]
-  - อาคารสูง อาคารขนาดใหญ่พิเศษ และอาคารชุมนุมคน ต้องจัดให้มีตำแหน่งติดตั้งเครื่องฟื้นคืนคลื่นหัวใจด้วยไฟฟ้าอัตโนมัติ (AED) ในจุดที่เข้าถึงได้ง่ายและมีป้ายสัญลักษณ์มองเห็นชัดเจนตลอดเวลา
+## 3. Electrical Safety, Earthing & Overcurrent Protection
+- Comply with EIT Standard 2001 (Thai Electrical Standard) and utility service rules (MEA / PEA).
+- Mandatory protective earth (PE) grounding across all branch receptacles.
+- Sensitive residual current protective devices (RCD / GFCI) with a trip sensitivity $\le 30\ mA$ operating within $40\ ms$ are mandatory for branch circuits serving wet areas (bathrooms, kitchens, outdoor terraces).
+- Lightning protection systems (NFPA 780 / IEC 62305) are mandatory on exposed and high-rise structures.
+
+---
+
+## 4. Public Automated External Defibrillators (AED) [MOI Notification B.E. 2564]
+- High-rise structures, extra-large buildings, and public transportation terminals must provide visible, unobstructed emergency Automated External Defibrillator (AED) stations equipped with clear standardized signage.

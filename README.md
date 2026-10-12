@@ -23,7 +23,7 @@ skill/architecture-engineering/
 ├── RESEARCH_SOURCES.md                 # Traceable legal & engineering bibliography (S-001 to S-021+)
 ├── references/                         # 16 In-depth technical reference modules (All VERIFIED)
 │   ├── architectural-design.md         # Tropical architecture, passive design & regional typologies
-│   ├── building-materials.md           # TIS (มอก.) materials, fire ratings (ASTM E119) & BEC envelopes
+│   ├── building-materials.md           # TIS materials, fire ratings (ASTM E119) & BEC envelopes
 │   ├── building-space-planning.md      # Room dimensions, stairs, universal design ramps & parking
 │   ├── construction-methods.md         # 8-stage construction sequencing & critical QC checkpoints
 │   ├── electrical-systems.md           # MDB, 20-sec emergency power generators, grounding & AED
@@ -35,7 +35,7 @@ skill/architecture-engineering/
 │   ├── plumbing-and-sanitary.md        # Soil/waste piping, mandatory grease traps (2023) & septic tanks
 │   ├── reinforced-concrete.md          # WSD 0.375f'c, SR24/SD40 rebars, concrete cover & seismic ties
 │   ├── site-planning.md                # Road setbacks, parcel boundaries, FAR, OSR & 6m fire access roads
-│   ├── steel-structures.md             # AISC/มยผ. LRFD/ASD, SS400/SM400, intumescent paint & galvanizing
+│   ├── steel-structures.md             # AISC/DPT LRFD/ASD, SS400/SM400, intumescent paint & galvanizing
 │   ├── structural-engineering.md       # Ministerial Reg 6 live loads, wind loads, soil capacities
 │   └── thailand-building-regulations.md# Building Control Act B.E. 2522, Sec 21/39 bis, Reg 33, 55, etc.
 └── workflows/                          # 8 Structured engineering workflows (All VERIFIED)
